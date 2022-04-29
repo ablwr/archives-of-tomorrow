@@ -1,0 +1,20 @@
+body {
+    font-family: 'Radio Canada';
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #7FD9A5;
+}
+
+h1 {
+    font-size: 6.66vw;
+    font-family: "Kodchasan";
+    font-weight: 700;
+    color: #EBA63F;
+    text-align: center
+}
