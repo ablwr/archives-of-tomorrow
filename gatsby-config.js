@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/archives-of-tomorrow",
+  //   pathPrefix: "/archives-of-tomorrow",
   siteMetadata: {
     title: `Archives of Tomorrow`,
     description: ``,
