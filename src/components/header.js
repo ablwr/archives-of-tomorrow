@@ -2,7 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 
 const Header = () => (
-  <>
+  <div id="header">
     <header className="text-base text-center text-orange-900">
       <Link to="/">Archives of Tomorrow</Link>
     </header>
@@ -14,7 +14,7 @@ const Header = () => (
             transform="translate(75 75)"
           />
         </svg>
-        <span className="pr-16 pb-10 text-3xl font-bold hover:text-orange-800">
+        <span className="pr-12 pb-10 text-xl font-bold hover:text-orange-800">
           About
         </span>
       </Link>
@@ -25,12 +25,12 @@ const Header = () => (
             transform="translate(75 75)"
           />
         </svg>
-        <span className="pr-16 pb-24 text-3xl font-bold hover:text-orange-800">
+        <span className="pr-16 pb-16 text-xl font-bold hover:text-orange-800">
           Books
         </span>
       </Link>
     </nav>
-  </>
+  </div>
 );
 
 export default Header;

@@ -12,6 +12,29 @@ body {
     color: white;
 }
 
+#app {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: 'header' 'main' 'footer';
+}
+
+#header {
+    grid-area: header;
+}
+
+#main {
+    grid-area: main;
+    display: grid;
+    width: 100vw;
+    overflow: scroll;
+}
+
+#footer {
+    grid-area: footer;
+}
+
 nav a {
     display: grid;
 }
@@ -20,20 +43,13 @@ nav a svg {
     grid-area: 1/1;
     justify-self: center;
     align-self: center;
-    max-width: 15rem;
+    max-width: 10rem;
 }
 
 nav a span {
     grid-area: 1/1;
     justify-self: center;
     align-self: center;
-}
-
-main {
-    display: grid;
-    justify-content: center;
-    align-content: center;
-    width: 100vw;
 }
 
 main h1 {
