@@ -13,7 +13,7 @@ body {
 }
 
 #app {
-    height: 100vh;
+    height: 98vh;
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-rows: auto 1fr auto;
