@@ -29,6 +29,8 @@ body {
     display: grid;
     width: 100vw;
     overflow: scroll;
+    justify-content: center;
+    align-content: start;
 }
 
 #footer {
@@ -52,8 +54,12 @@ nav a span {
     align-self: center;
 }
 
+h1 {
+    cursor: url('../images/favicon.ico'), auto;
+}
+
 main h1 {
-    font-size: 8vw;
+    font-size: 10vw;
     font-family: "Chicle";
     font-weight: 700;
 }
