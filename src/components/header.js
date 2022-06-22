@@ -11,7 +11,7 @@ const Header = () => (
             transform="translate(75 75)"
           />
         </svg>
-        <span className="pr-10 mt-12 text-xl font-bold hover:text-orange-800">
+        <span className="text-xl lg:text-2xl pr-8 lg:pr-10 mt-8 lg:mt-12 font-bold hover:text-orange-800">
           About
         </span>
       </Link>
@@ -25,7 +25,7 @@ const Header = () => (
             transform="translate(75 75)"
           />
         </svg>
-        <span className="pr-12 mt-8 text-xl font-bold hover:text-orange-800">
+        <span className="pr-8 lg:pr-12 text-xl lg:text-2xl mt-4 lg:mt-8 font-bold hover:text-orange-800">
           Books
         </span>
       </Link>

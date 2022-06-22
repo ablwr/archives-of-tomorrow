@@ -8,7 +8,7 @@ const Footer = () => (
         <svg viewBox="0 0 200 200" className="-mt-16 fill-orange-400">
           <path d="m 66.716236,59.920834 c 31.148323,-9.965425 65.721634,-21.260054 92.722244,-8.192108 26.85747,13.03752 46.31158,50.345034 35.49959,72.347584 -10.66886,22.03301 -51.43452,28.66845 -83.6832,31.84264 -32.248697,3.17418 -55.811084,2.79456 -76.316713,-9.14999 C 14.575693,134.85486 -2.6777123,111.1298 2.5703401,94.887655 7.8183927,78.645498 35.541757,70.009274 66.716236,59.920834 Z" />
         </svg>
-        <span className="pt-1 text-xl font-bold hover:text-orange-900">
+        <span className="pt-1 font-bold hover:text-orange-900">
           Illustrations
         </span>
       </Link>
@@ -23,7 +23,7 @@ const Footer = () => (
             transform="translate(75 100)"
           />
         </svg>
-        <span className="pr-12 pt-1 text-xl font-bold hover:text-orange-900">
+        <span className="pr-10 lg:pr-12 -mt-5 lg:mt-0 lg:pt-1 font-bold hover:text-orange-900">
           Data
         </span>
       </Link>

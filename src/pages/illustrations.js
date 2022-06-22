@@ -5,9 +5,9 @@ import Layout from "../components/layout";
 const IndexPage = () => (
   <Layout>
     <>
-      <h1 className="text-orange-400 drop-shadow">Illustrations</h1>
+      <h1 className="text-orange-400 drop-shadow text-center">Illustrations</h1>
 
-      <div className="max-w-3xl justify-self-center text-orange-600">
+      <div className="w-9/12 grid justify-self-center text-orange-600">
         <h2 className="font-bold text-2xl pb-2">Coming soon!</h2>
         <p>
           162 illustrations available under an open source and{" "}
