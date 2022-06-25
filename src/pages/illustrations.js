@@ -1,26 +1,43 @@
 import * as React from "react";
-import { Link } from "gatsby";
 import Layout from "../components/layout";
+import { graphql, Link } from "gatsby";
 
-const IndexPage = () => (
+const IllustrationsPage = ({ data }) => (
   <Layout>
     <>
       <h1 className="text-orange-400 drop-shadow text-center">Illustrations</h1>
 
-      <div className="w-9/12 grid justify-self-center text-orange-600">
-        <h2 className="font-bold text-2xl pb-2">Coming soon!</h2>
-        <p>
-          162 illustrations available under an open source and{" "}
+      <div className="w-6/12 grid justify-self-center text-orange-700">
+        <ul className="list-disc">
+          <li>
+            <Link to="/illustrations/video">Video</Link>
+          </li>
+          <li>
+            <a href="https://github.com/ablwr/illustrations/tree/main/cables">
+              Cables
+            </a>
+          </li>
+          <li>Audio (Coming soon) </li>
+          <li>Film (Coming soon)</li>
+        </ul>
+        <p className="pt-8">
+          All illustrations available under an open source and{" "}
           <a href="https://creativecommons.org/licenses/by/4.0/">
             CC-BY license
-          </a>{" "}
-          available as soon as{" "}
-          <Link to="/books/">The Illustrated Guide for Video Formats</Link> is
-          available for preorder.
+          </a>
+          .
+        </p>
+        <p className="pt-8">
+          {" "}
+          Download{" "}
+          <a href="https://github.com/ablwr/illustrations/">
+            all illustrations here on GitHub
+          </a>
+          .
         </p>
       </div>
     </>
   </Layout>
 );
 
-export default IndexPage;
+export default IllustrationsPage;

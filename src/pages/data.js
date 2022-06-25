@@ -14,8 +14,10 @@ class DataIndexPage extends React.Component {
     return (
       <Layout>
         <>
-          <h1 className="text-orange-400 text-center drop-shadow">Data</h1>
-          <p className="max-w-md text-xl pl-10 p-4 -mt-20 backdrop-blur-3xl bg-emerald-50 rounded-xl -rotate-3">
+          <h1 className="text-orange-400 text-center drop-shadow max-w-full">
+            Data
+          </h1>
+          <p className="max-w-md text-xl pl-10 p-4 -mt-12 backdrop-blur-3xl bg-emerald-50 rounded-xl -rotate-3">
             Also check out{" "}
             <a href="https://docs.google.com/spreadsheets/d/1sZ5mgeSuHvRBsn0SzOZyYKS1kOJzwtCS0JSyLnG-ELs/edit#gid=0">
               the full spreadsheet
@@ -23,7 +25,7 @@ class DataIndexPage extends React.Component {
             .<br /> Comments are open and encouraged!
           </p>
           <h2 className="text-center text-5xl pb-4">Video</h2>
-          <div className="max-w-full grid grid-cols-1 md:grid-cols-5 justify-content-center content-center auto-rows-max max-w-3xl justify-self-center text-orange-600">
+          <div className="max-w-full grid grid-cols-1 md:grid-cols-5 justify-content-center content-center auto-rows-max justify-self-center text-orange-600">
             {this.props.data.allVideoJson.edges.map((f) => {
               return (
                 <Link key={f.node.jsonId} to={`/` + f.node.jsonId}>

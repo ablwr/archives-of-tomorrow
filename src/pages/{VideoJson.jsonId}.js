@@ -131,6 +131,9 @@ class DataTemplate extends React.Component {
           <div className="pl-10 pr-10 pt-2 border-b-2 border-orange-800">
             {this.props.data.videoJson.fact4}
           </div>
+          <div className="pl-10 pr-10 pt-2 border-b-2 border-orange-800">
+            {this.props.data.videoJson.fact5}
+          </div>
         </div>
       </Layout>
     );
@@ -165,6 +168,7 @@ export const pageQuery = graphql`
       fact2
       fact3
       fact4
+      fact5
     }
   }
 `;
