@@ -17,7 +17,7 @@ class DataIndexPage extends React.Component {
           <h1 className="text-orange-400 text-center drop-shadow max-w-full">
             Data
           </h1>
-          <p className="max-w-md text-xl pl-10 p-4 -mt-12 backdrop-blur-3xl bg-emerald-50 rounded-xl -rotate-3">
+          <p className="max-w-md text-xl mt-2 mb-2 lg:pl-10 lg:p-4 lg:-mt-12 backdrop-blur-3xl bg-emerald-50 rounded-xl -rotate-3">
             Also check out{" "}
             <a href="https://docs.google.com/spreadsheets/d/1sZ5mgeSuHvRBsn0SzOZyYKS1kOJzwtCS0JSyLnG-ELs/edit#gid=0">
               the full spreadsheet
