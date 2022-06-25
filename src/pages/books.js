@@ -6,9 +6,9 @@ const IndexPage = () => (
   <Layout>
     <div className="grid justify-items-center text-orange-600">
       <h1 className="text-center text-orange-400 drop-shadow">Books</h1>
-      <div className="w-9/12 grid grid-cols-2 justify-items-center text-base">
-        <div className="grid justify-items-center">
-          <h2 className="text-3xl pb-4">Available August 16th!</h2>
+      <div className="w-9/12 grid lg:grid-cols-2 justify-items-center text-base">
+        <div className="grid justify-items-center pb-8">
+          <h2 className="text-2xl pb-4">Available August 16th!</h2>
           <img
             className="w-5/12 justify-self-center"
             src={cover}
@@ -46,9 +46,11 @@ const IndexPage = () => (
           </p>
         </div>
         <div>
-          <h2 className="text-3xl pb-4">Coming in 2023</h2>
-          <p>The Illustrated Guide to Audio</p>
-          <p>The Illustrated Guide to Film</p>
+          <h2 className="text-2xl pb-4">Coming in 2023</h2>
+          <ul>
+            <li>The Illustrated Guide to Audio</li>
+            <li>The Illustrated Guide to Film</li>
+          </ul>
         </div>
       </div>
     </div>

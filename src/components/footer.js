@@ -13,8 +13,9 @@ const Footer = () => (
         </span>
       </Link>
       <footer className="text-base text-center font-light text-orange-900">
-        © {new Date().getFullYear()}{" "}
-        <a href="https://ashleyblewer.com">Ashley Blewer</a>
+        <a href="https://ashleyblewer.com">
+          © {new Date().getFullYear()} Ashley Blewer ✨
+        </a>
       </footer>
       <Link to="/data/" className="h-14">
         <svg viewBox="0 0 200 200" className="-mt-16 fill-orange-400">
