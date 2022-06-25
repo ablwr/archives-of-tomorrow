@@ -144,7 +144,6 @@ export default DataTemplate;
 
 export const pageQuery = graphql`
   query ($jsonId: String!) {
-    # Select the post which equals this id.
     videoJson(jsonId: { eq: $jsonId }) {
       jsonId
       name

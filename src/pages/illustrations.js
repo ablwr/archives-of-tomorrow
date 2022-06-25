@@ -1,8 +1,8 @@
 import * as React from "react";
 import Layout from "../components/layout";
-import { graphql, Link } from "gatsby";
+import { Link } from "gatsby";
 
-const IllustrationsPage = ({ data }) => (
+const IllustrationsPage = () => (
   <Layout>
     <>
       <h1 className="text-orange-400 drop-shadow text-center">Illustrations</h1>

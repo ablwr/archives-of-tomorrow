@@ -6,14 +6,14 @@ import Layout from "../components/layout";
 class DataIndexPage extends React.Component {
   static propTypes = {
     data: PropTypes.shape({
-      videoJson: PropTypes.object.isRequired,
+      videoJson: PropTypes.object,
     }),
   };
 
   render() {
     return (
       <Layout>
-        <>
+        <div className="grid grid-cols-1">
           <h1 className="text-orange-400 text-center drop-shadow max-w-full">
             Data
           </h1>
@@ -36,7 +36,7 @@ class DataIndexPage extends React.Component {
               );
             })}
           </div>
-        </>
+        </div>
       </Layout>
     );
   }
