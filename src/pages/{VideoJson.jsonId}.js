@@ -17,7 +17,7 @@ class DataTemplate extends React.Component {
             <h1>{this.props.data.videoJson.name}</h1>
           </div>
         </div>
-        <div className="grid grid-cols-3 gap-2 m-4 border-2 text-lg border-orange-800">
+        <div className="w-11/12 grid lg:grid-cols-3 gap-2 m-4 border-2 text-lg border-orange-800">
           <div className="border-r-2 border-b-2 border-orange-800">
             <span className="relative top-0 left-2 text-xs uppercase text-orange-900">
               AKA
