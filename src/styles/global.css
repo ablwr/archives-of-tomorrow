@@ -38,6 +38,10 @@ body {
     grid-area: footer;
 }
 
+#headerTitle {
+    font-family: 'Chicle'
+}
+
 nav a {
     display: grid;
 }

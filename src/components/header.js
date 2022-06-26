@@ -11,12 +11,14 @@ const Header = () => (
             transform="translate(75 75)"
           />
         </svg>
-        <span className="text-xl lg:text-2xl pr-8 lg:pr-10 mt-8 lg:mt-12 font-bold hover:text-orange-800">
+        <span className="text-xl lg:text-2xl pr-6 lg:pr-10 mt-6 lg:mt-12 font-bold hover:text-orange-800">
           About
         </span>
       </Link>
-      <header className="text-base text-center text-orange-900">
-        <Link to="/">Archives of Tomorrow</Link>
+      <header className="text-center text-orange-900">
+        <Link id="headerTitle" to="/">
+          Archives of Tomorrow
+        </Link>
       </header>
       <Link to="/books/" className="h-16">
         <svg viewBox="0 0 200 200" className="fill-orange-400">
