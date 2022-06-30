@@ -8,7 +8,8 @@
         "developedBy": "Ampex",
         "manufacturers": "Ampex, RCA",
         "market": "Professional",
-        "capacity": "Up to 60 minutes",
+        "region": "North America",
+        "capacity": "60 minutes",
         "size": "12\" reels",
         "color": "Color",
         "encoding": "Composite",
@@ -20,8 +21,7 @@
         "fact1": "This format was the broadcast standard from its invention until the 1980s, when it was replaced by various smaller  formats",
         "fact2": "This format was  used by broadcast  television companies to do  time-shifting  (airing a  show at the same  time on East and  West US coasts)",
         "fact3": "Most video  formats used helical scanning, where video is scanned diagonally, but 2\" Quad  is based on transverse scanning, a method where 4 video heads scan video tape at a 90° angle",
-        "vidipax": "The 2\" Quad format was the first successful videotape format. By 1956 the format was being used for television broadcasts. The machine used a headwheel with four heads, which gave it the name \"Quadraplex\" or \"Quad\". It rotated at 14,400 rpm or 240 times a second, scanning transversely across 2-inch-wide tape. In order to spin this fast, the headwheel was floated on air bearings using an air compressor. \"High band\" recorders were introduced in 1964 by Ampex, offering a greater frequency response and a better signal-to-noise ratio (SNR). This allowed several generations of duplications to be made without a discernible loss of quality. Super highband was introduced by Ampex and RCA in 1972. The 2\" Quad format was widely used within the industry into the 1980s.",
-        "references": "[0]: ?"
+        "vidipax": "The 2\" Quad format was the first successful videotape format. By 1956 the format was being used for television broadcasts. The machine used a headwheel with four heads, which gave it the name \"Quadraplex\" or \"Quad\". It rotated at 14,400 rpm or 240 times a second, scanning transversely across 2-inch-wide tape. In order to spin this fast, the headwheel was floated on air bearings using an air compressor. \"High band\" recorders were introduced in 1964 by Ampex, offering a greater frequency response and a better signal-to-noise ratio (SNR). This allowed several generations of duplications to be made without a discernible loss of quality. Super highband was introduced by Ampex and RCA in 1972. The 2\" Quad format was widely used within the industry into the 1980s."
     },
     {
         "name": "2\" Helical",
@@ -32,8 +32,9 @@
         "format2": "open reel",
         "developedBy": "Ampex",
         "manufacturers": "Ampex",
-        "market": "Industry/Education",
-        "capacity": "Up to 5 hours",
+        "market": "Educational, Industrial",
+        "region": "North America",
+        "capacity": "5 hours",
         "size": "6.5\", 8\", 10.5\",\n12.5\" reels",
         "color": "Color",
         "encoding": "Composite",
@@ -45,10 +46,9 @@
         "fact1": "This format targeted  consumers; the tapes were much smaller and  cheaper than the 2\" Quad  used in the broadcast  industry",
         "fact2": "The VR-660  (the professional version of the 2\" helical scan deck) weighed 100 pounds, which was considered light in comparision with other video recorders from the same era",
         "fact3": "The 2\" tape runs at 3.7\ninches per second",
-        "fact4": "\"Changing the angle that the 4 heads \"the quad\" recorded and read information on the tape from a 90° angle to a much longer angle (think diagonal, like the hypoteneuse of a triangle) allowed for more information to be written on the tape in the same amount of space (needing less tape for the same length of content).\"",
-        "fact5": "VR-1500 consumer, VR-660 professional",
-        "vidipax": "The Ampex VR-1500 may well be the first consumer VTR. It appeared in the Christmas 1963 Neiman Marcus catalogue as part of a $30,000, 900-pound home entertainment center known as Signature V. The system included a 21\" color TV, TV tuner, turntable, reel-to-reel audiotape recorder, video camera and VTR. It had a timer to allow for television recordings of up to five hours of black-and-white video. The \"helical scan\" system wrapped the tape around the head drum at a slight angle as the tape was transported from reel to reel. Because the head-drum rotation speed is essentially independent of tape speed, the helical scan method allowed for a viewable picture at pause, slow motion, fast motion or even reverse motion. This was not possible with the Quad machines because an entire field of video is not scanned by one complete pass of the video heads.",
-        "references": "[0]: ?"
+        "fact4": "Changing the angle that the 4 heads \"the quad\" recorded and read information on the tape from a 90° angle to a much longer angle (think diagonal, like the hypoteneuse of a triangle) allowed for more information to be written on the tape in the same amount of space (needing less tape for the same length of content).\"(Michael Henry Grant)",
+        "fact5": "VR-1500 was the consumer VTR model; VR-660 was the professional model",
+        "vidipax": "The Ampex VR-1500 may well be the first consumer VTR. It appeared in the Christmas 1963 Neiman Marcus catalogue as part of a $30,000, 900-pound home entertainment center known as Signature V. The system included a 21\" color TV, TV tuner, turntable, reel-to-reel audiotape recorder, video camera and VTR. It had a timer to allow for television recordings of up to five hours of black-and-white video. The \"helical scan\" system wrapped the tape around the head drum at a slight angle as the tape was transported from reel to reel. Because the head-drum rotation speed is essentially independent of tape speed, the helical scan method allowed for a viewable picture at pause, slow motion, fast motion or even reverse motion. This was not possible with the Quad machines because an entire field of video is not scanned by one complete pass of the video heads."
     },
     {
         "name": "Sony 2\" Helical",
@@ -59,15 +59,15 @@
         "format2": "open reel",
         "developedBy": "Sony",
         "manufacturers": "Sony",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "2\"",
         "hubType": "NAB",
         "bandwidth": "Low Band",
-        "vidipax": "The Sony Helical SV-201 was the world's first transistorized VTR. The system used two heads and a half wrap around the heads, turning at 1800rpm (Half a revolution one TV field) at a tape speed of 7.5 ips (the same speed as an audiotape recorder). Since the two-head system was not acceptable for broadcast use and the machine was too large and expensive for consumers, Sony decided to branch it out into the industrial, educational and medical applications market.",
-        "references": "[0]: ?"
+        "vidipax": "The Sony Helical SV-201 was the world's first transistorized VTR. The system used two heads and a half wrap around the heads, turning at 1800rpm (Half a revolution one TV field) at a tape speed of 7.5 ips (the same speed as an audiotape recorder). Since the two-head system was not acceptable for broadcast use and the machine was too large and expensive for consumers, Sony decided to branch it out into the industrial, educational and medical applications market."
     },
     {
         "name": "Machtronics",
@@ -78,15 +78,15 @@
         "format2": "open reel",
         "developedBy": "Machtronics",
         "manufacturers": "Machtronics",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1\"",
         "hubType": "NAB",
         "bandwidth": "Low Band",
-        "vidipax": "The Machtronics MVC-10 was one of the first commercial 1-inch helical scan videotape recorder in the US, running at 7.5 ips. The machine contained a monitor and recorded for up to 90 minutes on a 10.5-inch reel. It weighed only 90 lbs. and occupied only 2.3 cubic feet.",
-        "references": "[0]: ?"
+        "vidipax": "The Machtronics MVC-10 was one of the first commercial 1-inch helical scan videotape recorder in the US, running at 7.5 ips. The machine contained a monitor and recorded for up to 90 minutes on a 10.5-inch reel. It weighed only 90 lbs. and occupied only 2.3 cubic feet."
     },
     {
         "name": " 1\" PI-3V",
@@ -97,15 +97,15 @@
         "format2": "open reel",
         "developedBy": "Precision Inst.",
         "manufacturers": "Precision Inst.",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1\"",
         "hubType": "NAB",
         "bandwidth": "Low Band",
-        "vidipax": "The PI-3V was the first videotape recorder manufactured by Precision Instruments and was based on the Machtronics MVR-11. It was a relatively lightweight (68-lb.) helical-scan recorder with two heads. Although there was little remarkable about this particular model, its successor, the PI-4V, introduced in 1965, was noted for its ability to play pictures at slower-than-normal speeds or even when stopped.",
-        "references": "[0]: ?"
+        "vidipax": "The PI-3V was the first videotape recorder manufactured by Precision Instruments and was based on the Machtronics MVR-11. It was a relatively lightweight (68-lb.) helical-scan recorder with two heads. Although there was little remarkable about this particular model, its successor, the PI-4V, introduced in 1965, was noted for its ability to play pictures at slower-than-normal speeds or even when stopped."
     },
     {
         "name": "1\" EV-200",
@@ -116,15 +116,19 @@
         "format2": "open reel",
         "developedBy": "Sony",
         "manufacturers": "Sony",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
+        "capacity": "63 minutes",
         "color": "Color",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1\"",
         "hubType": "3 Hole",
         "bandwidth": "Low Band",
-        "vidipax": "The EV-200 was the first \"portable\" VTR Sony offered for general use at a cost of approximately $3500. The 1\" machine was a monochrome only, full field recorder with stereo sound tracks, but color versions soon followed. To get more tape on a reel and thus allow the recorder to be smaller, the tape hub was made up of three small holes of about a quarter of an inch in diameter. Recordings were made on eight-inch reels running at 7.8 ips resulting in a 63-minute record/ playback time. Tapes made on the EV-200 were compatible with all Sony VTRís in the EV and UV series manufactured into the early 1970s.",
-        "references": "[0]: ?"
+        "fact1": "Sony's first portable VTR, initially only available in black-and-white but later a color version was introduced.",
+        "fact2": "\" To get more tape on a reel and thus allow the recorder to be smaller, the tape hub was made up of three small holes of about a quarter of an inch in diameter.\" (Vidipax)",
+        "fact3": "Debuted at $3500",
+        "vidipax": "Recordings were made on eight-inch reels running at 7.8 ips resulting in a 63-minute record/ playback time. Tapes made on the EV-200 were compatible with all Sony VTRís in the EV and UV series manufactured into the early 1970s."
     },
     {
         "name": "Philips 1\" EL3400",
@@ -135,15 +139,15 @@
         "format2": "open reel",
         "developedBy": "Philips",
         "manufacturers": "Philips",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1\"",
         "hubType": "Cartridge",
         "bandwidth": "Low Band",
-        "vidipax": "1\" EL3400 was the first videotape recorder by Philips and was designed for the industrial/educational markets at a cost of nearly $4,000. It was a one head, helical-scan, 1-inch machine that contained 21 vacuum tubes and consumed 355 watts of power. The machine was cumbersome, temperamental, noisy, and assembly required the purchaser to install the video head, which could be quite troublesome.",
-        "references": "[0]: ?"
+        "vidipax": "1\" EL3400 was the first videotape recorder by Philips and was designed for the industrial/educational markets at a cost of nearly $4,000. It was a one head, helical-scan, 1-inch machine that contained 21 vacuum tubes and consumed 355 watts of power. The machine was cumbersome, temperamental, noisy, and assembly required the purchaser to install the video head, which could be quite troublesome."
     },
     {
         "name": "1\" Type A",
@@ -153,7 +157,8 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "Ampex",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "capacity": "1 hour",
         "size": "Up to 12\" reels",
         "color": "Color",
@@ -165,8 +170,7 @@
         "fact1": "This was the first major standardized reel-to-reel magnetic tape format",
         "fact2": "This format was used by the White House Communications Agency from 1966 to 1969",
         "fact3": "This format was not used for broadcast television because it did not meet Federal Communications Commission (FCC) specifications for broadcast videotape formats",
-        "vidipax": "The first helical-scan standard was based on the Ampex 1-inch format and was the first workhorse format for the educational and industrial markets. When Ampex introduced this format in 1965, SMPTE did not have any designated letter formats. SMPTE only had a Standards document for 2\" Quad. With the Sony BVH-1000, it formed the basis of the SMPTE Type C standard. The original 1\" format was then designated as Type A. High friction on the scanner, a flimsy base for the motor and an unusual capstan made machine interchange a problem. A joke amongst Ampex engineers was that there were 30,000 \"Type A\" formats since that's how many machines had been sold.",
-        "references": "[0]: ?"
+        "vidipax": "The first helical-scan standard was based on the Ampex 1-inch format and was the first workhorse format for the educational and industrial markets. When Ampex introduced this format in 1965, SMPTE did not have any designated letter formats. SMPTE only had a Standards document for 2\" Quad. With the Sony BVH-1000, it formed the basis of the SMPTE Type C standard. The original 1\" format was then designated as Type A. High friction on the scanner, a flimsy base for the motor and an unusual capstan made machine interchange a problem. A joke amongst Ampex engineers was that there were 30,000 \"Type A\" formats since that's how many machines had been sold."
     },
     {
         "name": "1/2\" CV",
@@ -176,7 +180,8 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "Sony",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "capacity": "Small: 30 minutes\nLarge: 1 hour",
         "size": "5\" reels\n7\" reels",
         "color": "Black&White",
@@ -186,8 +191,7 @@
         "hubType": "NAB",
         "bandwidth": "Low Band",
         "fact1": "CV tape speed is 19.05cm/s (7.5ips).",
-        "vidipax": "CV was one of the first affordable videotape recorders for consumers. The CV (Consumer Video/Commercial Video) format used 1/2\"tape on a two-head, alpha-wrap helical-scan system using a skip-field method. At the time, it was extremely difficult to produce precisely matched video recording heads. Matched heads were more important in record than playback. In skip-field recording, only one head actually records. During playback, the record head plays the track once while the second head is offset so that it reads the same track again. All of the CV-format VTRs were interchange-compatible among each other until the introduction of the EIAJ industry-standard-format AV series in the early 1970s.",
-        "references": "[0]: ?"
+        "vidipax": "CV was one of the first affordable videotape recorders for consumers. The CV (Consumer Video/Commercial Video) format used 1/2\"tape on a two-head, alpha-wrap helical-scan system using a skip-field method. At the time, it was extremely difficult to produce precisely matched video recording heads. Matched heads were more important in record than playback. In skip-field recording, only one head actually records. During playback, the record head plays the track once while the second head is offset so that it reads the same track again. All of the CV-format VTRs were interchange-compatible among each other until the introduction of the EIAJ industry-standard-format AV series in the early 1970s."
     },
     {
         "name": "Wollensack VTR150",
@@ -195,15 +199,15 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "3M & Wollensack",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "-",
-        "bandwidth": "Low Band",
-        "vidipax": "The VTR-150 was the 3M/Wollensack version of the portable - open-reel format. It could be bought separately or as part of the VTR-150MC Mobile Console, which included the recorder, video camera with automatic exposure, microphone and lavalier attachment, headphones, tripod, and 8\" TV monitor. A switcher was included in the console to allow for a two-camera setup.",
-        "references": "[0]: ?"
+        "bandwidth": "2 Mhz (Audio: 10 Khz)",
+        "resourcesreferences": "http://www.labguysworld.com/Cat_Wollensak.htm",
+        "vidipax": "The VTR-150 was the 3M/Wollensack version of the portable - open-reel format. It could be bought separately or as part of the VTR-150MC Mobile Console, which included the recorder, video camera with automatic exposure, microphone and lavalier attachment, headphones, tripod, and 8\" TV monitor. A switcher was included in the console to allow for a two-camera setup."
     },
     {
         "name": "1\" IVC",
@@ -213,7 +217,8 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "International Video\nCorporation",
-        "market": "Industry/Education, Professional",
+        "market": "Educational, Industrial, Professional",
+        "region": "Europe, United Kingdom",
         "capacity": "60 minutes",
         "size": "8\" reels",
         "color": "Color",
@@ -225,8 +230,7 @@
         "fact1": "These 1\" tape formats were produced by the International Video Corporation and came in a few different formats: 700, 800, 900, with the 800 series being the most popular; IVC also produced a 2\" tape system, the IVC model 9000 VTR",
         "fact2": "IVC (UK Ltd.) won a Royal Television Society award in 1984 for outstanding new product of the year and a Queen's Award for  Technology in 1985",
         "fact3": "This format was largely marketed in the United States and United Kingdom",
-        "vidipax": "The 1\" IVC-700/800/900 were 1-inch helical-scan alpha-wrap recorders that were considered the state of the art at the time. The tape speed was 6.9 ips, giving a one-hour playing time on an 8-inch reel. The 900 series could accommodate reels of up to 12 inches, giving a playing time in excess of three hours.",
-        "references": "[0]: ?"
+        "vidipax": "The 1\" IVC-700/800/900 were 1-inch helical-scan alpha-wrap recorders that were considered the state of the art at the time. The tape speed was 6.9 ips, giving a one-hour playing time on an 8-inch reel. The 900 series could accommodate reels of up to 12 inches, giving a playing time in excess of three hours."
     },
     {
         "name": "Concord VTR600",
@@ -235,15 +239,14 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "Concord",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
         "color": "Black&White",
         "encoding": "-",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "-",
         "bandwidth": "Low Band",
-        "vidipax": "The Concord VTR-600 was a half-inch open-reel black-and-white format with two heads on the drum. Running at 12 ips, it got 40 minutes on a 7-inch reel. It was one of the first machines to have a pushbutton for cleaning the video heads.",
-        "references": "[0]: ?"
+        "vidipax": "The Concord VTR-600 was a half-inch open-reel black-and-white format with two heads on the drum. Running at 12 ips, it got 40 minutes on a 7-inch reel. It was one of the first machines to have a pushbutton for cleaning the video heads."
     },
     {
         "name": "Shibaden 1/2\"",
@@ -253,12 +256,13 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "Shibaden",
+        "manufacturers": "Shibaden",
+        "region": "Japan",
         "capacity": "5\": 30min\n7\": 60min",
         "size": "5\" & 7\" reels",
         "fact1": "This format was also marketed under Apeco Teletape, Bell & Howell,  and a similar format by  Bang & Olfson",
         "fact2": "Shibaden is a  combined name  from two Japanese  manufacturers:  Shiba Electric  and Denshi. ",
-        "fact3": "This format was  a short-lived  predecessor to  the EIAJ-1 format  and is not compatible (even  though reels  look identical)",
-        "references": "[0]: ?"
+        "fact3": "This format was  a short-lived  predecessor to  the EIAJ-1 format  and is not compatible (even  though reels  look identical)"
     },
     {
         "name": "1/4\" Akai",
@@ -268,11 +272,11 @@
         "format": "analog",
         "format2": "open reel",
         "developedBy": "Akai",
-        "market": "Industry/Education, Consumer",
-        "capacity": "Up to 30 minutes",
+        "market": "Consumer, Educational, Industrial",
+        "capacity": "30 minutes",
         "size": "5\" reels",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "0.25\"",
         "hubType": "Spindle",
@@ -280,8 +284,7 @@
         "fact1": " This format was initially only\navailable in black-and-white, \nwith color being introduced in \n1974; color tapes were not \nbackwards-compatible due to \nthe systems running at \ndifferent speeds ",
         "fact2": "This format was marketed for consumer use, intended  for use in home movies",
         "fact3": "This format was typically  stored on 5\" reels  but larger 10.5\" reels  were later introduced",
-        "vidipax": "The open-reel Akai recorded up to 20 minutes of black-and-white or color video using the most lightweight portapack of its era. Although it was possible to record pictures using normal audiotape, the quality was much reduced and the rough surface of the tape would wear the drum down on the machines more quickly than the special quarter-inch videotape offered by Akai.",
-        "references": "[0]: ?"
+        "vidipax": "The open-reel Akai recorded up to 20 minutes of black-and-white or color video using the most lightweight portapack of its era. Although it was possible to record pictures using normal audiotape, the quality was much reduced and the rough surface of the tape would wear the drum down on the machines more quickly than the special quarter-inch videotape offered by Akai."
     },
     {
         "name": "EIAJ-1",
@@ -292,11 +295,12 @@
         "format2": "open reel",
         "developedBy": "Electronic Industries Association of Japan",
         "manufacturers": "Sony, Panasonic, ?",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "capacity": "60 minutes",
         "size": "7\" reels",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Spindle",
@@ -304,8 +308,7 @@
         "fact1": "This was the  first widely  used non- professional  format due to  its low cost and  portability",
         "fact2": "This was the  first video tape  format to fit  into a recording  device small  enough to be  transported  by one person  (known as the  PortaPak)",
         "fact3": "This format's success can be  attributed to it having been  developed as a  shared, non- proprietary  standardized  format that  could be  developed and  manufactured  by different companies",
-        "vidipax": "EIAJ was the format that Japanese firms marketing 1/2\" VTRs agreed on as a standard format in 1969. The system was named for the Japanese standards group (Electronics Industries Association of Japan). Up until this time there was little or no interchangeability among the manufacturers offering VTRs. The EIAJ-1 low-band specifications (monochrome and color) simplified the exchange of tapes and standardized all the machines. EIAJ machines remained in place pretty much until the demise of open reel-to-reel tape. The format is also referred to 1/2\" AV (Audio Visual).",
-        "references": "[0]: ?"
+        "vidipax": "EIAJ was the format that Japanese firms marketing 1/2\" VTRs agreed on as a standard format in 1969. The system was named for the Japanese standards group (Electronics Industries Association of Japan). Up until this time there was little or no interchangeability among the manufacturers offering VTRs. The EIAJ-1 low-band specifications (monochrome and color) simplified the exchange of tapes and standardized all the machines. EIAJ machines remained in place pretty much until the demise of open reel-to-reel tape. The format is also referred to 1/2\" AV (Audio Visual)."
     },
     {
         "name": "Philips 1/2\" VCR",
@@ -315,15 +318,14 @@
         "format2": "Cart",
         "developedBy": "Philips",
         "manufacturers": "Philips, Norelco",
-        "market": "Industry/Education, Consumer",
+        "market": "Consumer, Educational, Industrial",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
         "bandwidth": "Low Band",
-        "vidipax": "The VCR was the first commercially available home video cartridge machine introduced on the market. It used a chromium-dioxide tape, and recorded at a speed of 5.6 ips with a record time of up to 70 minutes. It used a coaxial cassette with the takeup reel on top of the supply reel.",
-        "references": "[0]: ?"
+        "vidipax": "The VCR was the first commercially available home video cartridge machine introduced on the market. It used a chromium-dioxide tape, and recorded at a speed of 5.6 ips with a record time of up to 70 minutes. It used a coaxial cassette with the takeup reel on top of the supply reel."
     },
     {
         "name": "U-matic",
@@ -334,11 +336,12 @@
         "format2": "Cassette",
         "developedBy": "Sony",
         "manufacturers": "Sony, JVC, Panasconic, NEC, ?",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
+        "region": "North America",
         "capacity": "Small: 20 minutes\nStandard: 60 minutes",
         "size": "Small: 18.4 × 12.2 × 3.2 cm\nStandard: 22.1 × 14.0 × 3.2 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "3/4\"",
         "hubType": "Cassette",
@@ -346,8 +349,7 @@
         "fact1": "While this format was primarily used to store  analog video, it was  also used for the storage  of digital audio data",
         "fact2": "This format  was named  after the letter U, because the course of the tape running through a playback device is shaped like the letter U",
         "fact3": "Most tapes have a round red tab on the back that can be removed to prevent accidental recording",
-        "vidipax": "U-matic, Sony's name for the format, became one of the most successful formats of all time. The cassette mechanism enabled it eventually to be easily used for news acquisition, which until that time had primarily been gathered on 16mm film. As the name suggests, U-type video recorders thread the tape in a \"U\" pattern around the head drum. It plays at a tape-transport speed of 3.75 ips and initially had a 240-line resolution but increased as more development was undertaken.",
-        "references": "[0]: ?"
+        "vidipax": "U-matic, Sony's name for the format, became one of the most successful formats of all time. The cassette mechanism enabled it eventually to be easily used for news acquisition, which until that time had primarily been gathered on 16mm film. As the name suggests, U-type video recorders thread the tape in a \"U\" pattern around the head drum. It plays at a tape-transport speed of 3.75 ips and initially had a 240-line resolution but increased as more development was undertaken."
     },
     {
         "name": "EIAJ-2",
@@ -357,22 +359,20 @@
         "format": "analog",
         "format2": "Cart",
         "developedBy": "Panasonic",
-        "market": "Industry/Education",
+        "market": "Educational, Industrial",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
         "bandwidth": "Low Band",
-        "vidipax": "Known by the Panasonic name of \"Omnivision\", the EIAJ Cartridge recording format is identical to the open-reel EIAJ; it's only the cartridge that makes it different. The running time was only 30 minutes and the tape had to be entirely rewound before it could be removed from the deck. Because the threading system and captive takeup reel were so complex, tape jams were extremely difficult to clear.",
-        "references": "[0]: ?"
+        "vidipax": "Known by the Panasonic name of \"Omnivision\", the EIAJ Cartridge recording format is identical to the open-reel EIAJ; it's only the cartridge that makes it different. The running time was only 30 minutes and the tape had to be entirely rewound before it could be removed from the deck. Because the threading system and captive takeup reel were so complex, tape jams were extremely difficult to clear."
     },
     {
         "name": "EIAJ EV",
         "id": "eiaj-ev",
         "aka": "Sony EV",
-        "developedBy": "Sony",
-        "references": "[0]: ?"
+        "developedBy": "Sony"
     },
     {
         "name": "Cartrivision",
@@ -387,7 +387,7 @@
         "capacity": "114 minutes",
         "size": "18 × 17 × 3.8 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "scanProcess": "skip-field",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
@@ -396,8 +396,7 @@
         "fact1": "Red cassettes, meant for video rentals, could not be rewound by a home Cartrivision machine.",
         "fact2": "The first model of Cartrivision-equipped TV set sold for US $1,350",
         "fact3": "This format was on the market for only one year, from June 1972 to July 1973, before manufacturing stopped due to low sales",
-        "vidipax": "Unsuccessful but somewhat ahead of its time, Cartrivision was the first simple consumer video recording and playback system to hit the market. Two reels of tape were stacked on top of each other in a cassette the size of a hardcover book. The system used a skip-field recording . Special cassettes were made for rental that could be watched only once because they were designed not to rewind in home machines.",
-        "references": "[0]: ?"
+        "vidipax": "Unsuccessful but somewhat ahead of its time, Cartrivision was the first simple consumer video recording and playback system to hit the market. Two reels of tape were stacked on top of each other in a cassette the size of a hardcover book. The system used a skip-field recording . Special cassettes were made for rental that could be watched only once because they were designed not to rewind in home machines."
     },
     {
         "name": "V-Cord",
@@ -406,15 +405,14 @@
         "format": "analog",
         "format2": "Cassette",
         "developedBy": "Sanyo",
-        "market": "Industry/Education, Consumer",
+        "market": "Consumer, Educational, Industrial",
         "color": "Black and White",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
         "bandwidth": "Low Band",
-        "vidipax": "The V-Cord II was the first consumer machine to offer two recording speeds, freeze-frame and slow motion. It could record up to two hours in color on a tape that cost $35. The V-Cord I stored 20 minutes of black-and-white video. The V-Cords failed because of mechanical unreliability and lack of interest from other manufacturers.",
-        "references": "[0]: ?"
+        "vidipax": "The V-Cord II was the first consumer machine to offer two recording speeds, freeze-frame and slow motion. It could record up to two hours in color on a tape that cost $35. The V-Cord I stored 20 minutes of black-and-white video. The V-Cords failed because of mechanical unreliability and lack of interest from other manufacturers."
     },
     {
         "name": "2\" Helical IVC-9000",
@@ -426,13 +424,12 @@
         "developedBy": "IVC",
         "market": "Professional",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "2\"",
         "hubType": "NAB",
         "bandwidth": "Super High Band",
-        "vidipax": "Though it was considered one of the finest analog formats, IVC went bankrupt developing the 9000. The machine played back and recorded in all video standards, with an 8 MHz direct bandwidth using a segmented helical-scan configuration. The 9000M model could record a 655-line picture at 24 frames per second, and was specifically for the film industry.",
-        "references": "[0]: ?"
+        "vidipax": "Though it was considered one of the finest analog formats, IVC went bankrupt developing the 9000. The machine played back and recorded in all video standards, with an 8 MHz direct bandwidth using a segmented helical-scan configuration. The 9000M model could record a 655-line picture at 24 frames per second, and was specifically for the film industry."
     },
     {
         "name": "Video Cassette Recording",
@@ -443,12 +440,11 @@
         "format2": "Tape",
         "developedBy": "Philips",
         "market": "Consumer",
-        "capacity": "VCR: Up to 60 minutes\nVCR-LP: Up to 145 minutes\nSVC: Up to 240 minutes",
+        "capacity": "VCR: 60 minutes\nVCR-LP: 145 minutes\nSVC: 240 minutes",
         "size": "12.7 × 14.5 × 3.8 cm",
         "fact1": "This was the first successful consumer-level home videocassette recorder system",
         "fact2": "This format was marketed only in the U.K., Europe, Australia & South Africa",
-        "fact3": "This format introduced many features adopted by later videotape format decks such as its control buttons style, clock with timer, and a built-in tuner",
-        "references": "[0]: ?"
+        "fact3": "This format introduced many features adopted by later videotape format decks such as its control buttons style, clock with timer, and a built-in tuner"
     },
     {
         "name": "VX",
@@ -461,13 +457,12 @@
         "manufacturers": "Panasonic, Quasar",
         "market": "Consumer",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
         "bandwidth": "Low Band",
-        "vidipax": "VX was introduced on the consumer market by Quasar as the \"The Great Time Machine\". The one-head helical-scan format required a nearly 360-degree tape wrap, which was accomplished by using a cassette that dropped over the head drum, and was essentially prethreaded.",
-        "references": "[0]: ?"
+        "vidipax": "VX was introduced on the consumer market by Quasar as the \"The Great Time Machine\". The one-head helical-scan format required a nearly 360-degree tape wrap, which was accomplished by using a cassette that dropped over the head drum, and was essentially prethreaded."
     },
     {
         "name": "TeD",
@@ -477,8 +472,7 @@
         "format": "analog",
         "format2": "Disc",
         "developedBy": "Telefunken",
-        "market": "Consumer",
-        "references": "[0]: ?"
+        "market": "Consumer"
     },
     {
         "name": "Betamax",
@@ -489,11 +483,12 @@
         "format2": "Cassette",
         "developedBy": "Sony",
         "manufacturers": "Sony, Sanyo, Toshiba, Pioneer, Murphy, Aiwa, NEC, Zenith Electronics, WEGA, Sears, Quelle, RadioShack",
-        "market": "Industry/Education, Consumer",
-        "capacity": "Up to 5 hours",
+        "market": "Consumer, Educational, Industrial",
+        "region": "North America",
+        "capacity": "5 hours",
         "size": "15.6 × 9.6 × 2.5 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cassette",
@@ -501,8 +496,7 @@
         "fact1": "This was the central format  in a U.S. Supreme Court case that determined home  videotaping of television and movies was legal, ruling  against film  industry  corporations",
         "fact2": "This format famously \"lost\"  the consumer market to VHS,  a more open and cheaper  format that debuted with  longer initial storage capacity  (120 versus 60 minutes)",
         "fact3": "The format was named after the shape of the  lowercase Greek letter  beta (β) because it  resembles the course of the tape running through  a playback device",
-        "vidipax": "This was the first successful consumer videocassette. The record/play time was initially one hour but later increased to over five hours. Betamax HB raised the video frequency from a peak white of 4.8 MHz in regular Betamax to 5.6 MHz. Super Highand Beta increased the frequency even higher, to 6 MHz. A hit at first, Betamax later failed in the market place against the JVC/Matsushita VHS format.",
-        "references": "[0]: ?"
+        "vidipax": "This was the first successful consumer videocassette. The record/play time was initially one hour but later increased to over five hours. Betamax HB raised the video frequency from a peak white of 4.8 MHz in regular Betamax to 5.6 MHz. Super Highand Beta increased the frequency even higher, to 6 MHz. A hit at first, Betamax later failed in the market place against the JVC/Matsushita VHS format."
     },
     {
         "name": "1\" Type B",
@@ -513,8 +507,9 @@
         "format2": "Reel",
         "developedBy": "Bosch",
         "manufacturers": "Bosch",
-        "market": "Industry/Education, Professional",
-        "capacity": "Up to 2 hours",
+        "market": "Educational, Industrial, Professional",
+        "region": "Europe, United Kingdom",
+        "capacity": "2 hours",
         "size": "Up to 10.5\" reels",
         "color": "Color",
         "encoding": "Composite",
@@ -525,8 +520,7 @@
         "fact1": "This format became  the broadcasting standard  in Europe, but adoption  was limited in the  United States",
         "fact2": "This format  began to  replace 2\" quad and 1\" Type A, but subsequently was largely replaced by 1\" Type C for use in broadcast  television",
         "fact3": "This format  segments each  field to 5 (NTSC) or 6  (PAL) helical  scan tracks per  field, instead  of recording  one field  per track",
-        "vidipax": "This format was very popular in Europe. Similar to the Type C format, it uses a segmented helical scan on a small-diameter drum. It operates at a recording or playback speed of 9.65 ips. Each video head pass records 52 lines of video information and is therefore defined as a segmented VTR and cannot offer still-frame or slow motion capabilities.",
-        "references": "[0]: ?"
+        "vidipax": "This format was very popular in Europe. Similar to the Type C format, it uses a segmented helical scan on a small-diameter drum. It operates at a recording or playback speed of 9.65 ips. Each video head pass records 52 lines of video information and is therefore defined as a segmented VTR and cannot offer still-frame or slow motion capabilities."
     },
     {
         "name": "Sony 1\" Helical BVH-1000",
@@ -543,8 +537,7 @@
         "tapeWidth": "1\"",
         "hubType": "NAB",
         "bandwidth": "High Band",
-        "vidipax": "This model number was actually applied to two different Sony machines. The first was a competitor to the then-latest version of Ampex Type A. A network white paper began the process of melding features of both Type A and the BVH-1000 into a common, standardized format, which became Type C. Sony's first Type C machines were also called BVH-1000.",
-        "references": "[0]: ?"
+        "vidipax": "This model number was actually applied to two different Sony machines. The first was a competitor to the then-latest version of Ampex Type A. A network white paper began the process of melding features of both Type A and the BVH-1000 into a common, standardized format, which became Type C. Sony's first Type C machines were also called BVH-1000."
     },
     {
         "name": "1\" Type C",
@@ -556,7 +549,7 @@
         "developedBy": "Ampex & Sony",
         "manufacturers": "Ampex, Sony, Hitachi, RCA, NEC",
         "market": "Professional",
-        "capacity": "Up to 3 hours",
+        "capacity": "3 hours",
         "size": "12\" reels",
         "color": "Color",
         "encoding": "Composite",
@@ -567,8 +560,7 @@
         "fact1": "This format was capable  of \"trick-play\" functions  such as still frames,  shuttle, and slow motion  variable-speed playback",
         "fact2": "In this format, the entire  composite video signal  is recorded and played  back as is, without  being split into  separate components ",
         "fact3": "Recording devices  were able to  capture single  frames, which  made them  popular in the  development of  early computer  animation",
-        "vidipax": "In 1978, Ampex and Sony both had 1-inch open-reel helical-scan machines that were similar but not compatible. Under SMPTE auspices, Ampex and Sony agreed to a standard 1-inch professional helical format called Type C (standing for \"compromise\"). Both manufacturers had to modify slightly their original designs to create a common format. The 1\" Type C displaced the Quadruplex recorders from all high-end broadcast applications during the 1980s. Unlike the 2\" Quad and 1\" Type B, it offered many features that we now take for granted, such as viewable still frame, slow and fast motion, and picture shuttle. The machine used a full wrap of videotape around the video head assembly and two video record/playback heads inside the assembly. Only one head is used to record and playback the visible part of the picture. The other optional head is used to record sync information.",
-        "references": "[0]: ?"
+        "vidipax": "In 1978, Ampex and Sony both had 1-inch open-reel helical-scan machines that were similar but not compatible. Under SMPTE auspices, Ampex and Sony agreed to a standard 1-inch professional helical format called Type C (standing for \"compromise\"). Both manufacturers had to modify slightly their original designs to create a common format. The 1\" Type C displaced the Quadruplex recorders from all high-end broadcast applications during the 1980s. Unlike the 2\" Quad and 1\" Type B, it offered many features that we now take for granted, such as viewable still frame, slow and fast motion, and picture shuttle. The machine used a full wrap of videotape around the video head assembly and two video record/playback heads inside the assembly. Only one head is used to record and playback the visible part of the picture. The other optional head is used to record sync information."
     },
     {
         "name": "VHS",
@@ -580,10 +572,11 @@
         "developedBy": "JVC",
         "manufacturers": "JVC & more",
         "market": "Consumer",
-        "capacity": "120 minutes",
+        "region": "Global",
+        "capacity": "2 hours",
         "size": "18.7 × 10.2 × 2.5 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cassette",
@@ -591,8 +584,7 @@
         "fact1": "A smaller variant  of VHS, VHS-C,  was introduced  in 1982 for use  in camcorders;  these tapes  could be played  in standard VHS  machines with  an adaptor",
         "fact2": "Development  of this format  was initially  cancelled in  1972, but  engineers  continued  to work on  it in secret  until they had  a successful  working  prototype  in 1973",
         "fact3": "This format was  developed with the  goals of being  compatible with  any television  and across producing  companies, ability to  be customized and  expanded, inexpensive  to purchase and repair,  and have parts that can  be easily replaced  and maintained",
-        "vidipax": "The most successful of all the home video formats, it was introduced as a competitor to Betamax. Its success was due primarily to its initial advantage over Betamax of having a two-hour playing time \"essential for prerecording movies\" and the coup of getting the number-one consumer-electronics brand, RCA, to market it. Although VHS quality has improved significantly since its introduction, it leaves a lot to be desired when it comes to professional applications.",
-        "references": "[0]: ?"
+        "vidipax": "The most successful of all the home video formats, it was introduced as a competitor to Betamax. Its success was due primarily to its initial advantage over Betamax of having a two-hour playing time \"essential for prerecording movies\" and the coup of getting the number-one consumer-electronics brand, RCA, to market it. Although VHS quality has improved significantly since its introduction, it leaves a lot to be desired when it comes to professional applications."
     },
     {
         "name": "V-Cord II",
@@ -603,10 +595,10 @@
         "format2": "Tape",
         "developedBy": "Sanyo",
         "market": "Consumer",
-        "capacity": "Up to 120 minutes",
+        "capacity": "2 hours",
         "size": "11 × 15.7 × 2.5 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
@@ -614,16 +606,14 @@
         "fact1": "The original V-Cord cassette could record up to 60 minutes of black-and-white video, and the V-Cord II could record up to 120 minutes in color",
         "fact2": "V-Cord II machines were the first consumer playback devices to offer two recording speeds: standard mode (STD), and a long-play mode (LP)",
         "fact3": "Although the V-Cord II was based on V-Cord, which debuted in 1974, this sequal was too late to market in competition with Betamax and VHS, and V-Cord manufacturers Sanyo and Toshiba later switched to producing Betamax",
-        "vidipax": "The V-Cord II was the first consumer machine to offer two recording speeds, freeze-frame and slow motion. It could record up to two hours in color on a tape that cost $35. The V-Cord I stored 20 minutes of black-and-white video. The V-Cords failed because of mechanical unreliability and lack of interest from other manufacturers.",
-        "references": "[0]: ?"
+        "vidipax": "The V-Cord II was the first consumer machine to offer two recording speeds, freeze-frame and slow motion. It could record up to two hours in color on a tape that cost $35. The V-Cord I stored 20 minutes of black-and-white video. The V-Cords failed because of mechanical unreliability and lack of interest from other manufacturers."
     },
     {
         "name": "VK",
         "id": "vk",
         "format": "analog",
         "format2": "Tape",
-        "market": "Consumer",
-        "references": "[0]: ?"
+        "market": "Consumer"
     },
     {
         "name": "LaserDisc",
@@ -634,12 +624,12 @@
         "format2": "Disc",
         "developedBy": "Philips, MCA Inc.,\nPioneer Corporation",
         "market": "Consumer",
+        "region": "Japan",
         "capacity": "60 minutes\n(per side)",
         "size": "12\" discs",
         "fact1": "This format had moderate success in North America and Europe and found much more success in Japan and Southeast Asia",
         "fact2": "While this format's video  is stored as composite  analog video signals, the  audio can be stored as  either analog or digital",
-        "fact3": "LaserDiscs are typically  12\", but 8\" discs were  also produced; CD  Video discs, at 5\",  could also carry up to  20 minutes of LaserDisc audio  and video",
-        "references": "[0]: ?"
+        "fact3": "LaserDiscs are typically  12\", but 8\" discs were  also produced; CD  Video discs, at 5\",  could also carry up to  20 minutes of LaserDisc audio  and video"
     },
     {
         "name": "Video2000",
@@ -649,11 +639,11 @@
         "format": "analog",
         "format2": "Cart",
         "developedBy": "Philips and Grundig",
-        "market": "Industry/Education, Consumer",
-        "capacity": "Up to 8 hours\n(per side)",
+        "market": "Consumer, Educational, Industrial",
+        "capacity": "8 hours\n(per side)",
         "size": "10.8 × 7.2 × 2.1 cm",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cartridge",
@@ -661,8 +651,7 @@
         "fact1": "This format failed to gain commercial success due to competition with VHS & Betamax, the struggle to standardize players and tapes between companies, and higher cost",
         "fact2": "This format could play video in either direction and at any speed without reduction in image quality",
         "fact3": "This format could be turned over (like audio cassette tapes) to play tape from both sides",
-        "vidipax": "A popular consumer format in Europe, the Video 2000 machine allowed users to turn the tape over and play both sides, for a recording time of up to eight hours. The machine used a system of automatic tracking: its Dynamic Track Following system, ensuring that the tracking was always 100% perfect, even on still pause and picture-search modes. It achieved this by having the video heads mounted on piezoelectric actuators that followed the tracks as they were scanned. There was a second generation of Video 2000 machines before the format was discontinued, including a portable battery-operated machine that was considerably smaller and lighter.",
-        "references": "[0]: ?"
+        "vidipax": "A popular consumer format in Europe, the Video 2000 machine allowed users to turn the tape over and play both sides, for a recording time of up to eight hours. The machine used a system of automatic tracking: its Dynamic Track Following system, ensuring that the tracking was always 100% perfect, even on still pause and picture-search modes. It achieved this by having the video heads mounted on piezoelectric actuators that followed the tracks as they were scanned. There was a second generation of Video 2000 machines before the format was discontinued, including a portable battery-operated machine that was considerably smaller and lighter."
     },
     {
         "name": "SVR",
@@ -670,26 +659,24 @@
         "aka": "Super Video Recording",
         "era": "1979–",
         "format2": "Tape",
-        "market": "Consumer",
-        "references": "[0]: ?"
+        "market": "Consumer"
     },
     {
         "name": "CVC",
         "id": "cvc",
         "aka": "Compact Video Cassette",
-        "era": "1980 or 1984",
+        "era": "1980–1984",
         "format2": "Cassette",
         "developedBy": "Funai, Technicolor",
         "manufacturers": "Funai, Technicolor",
         "market": "Consumer",
         "color": "Color",
-        "encoding": "Component - Color Under",
+        "encoding": "Component (Color Under)",
         "tapeType": "Oxide",
         "tapeWidth": "1/4\"",
         "hubType": "Cassette",
         "bandwidth": "Low Band",
-        "vidipax": "CVC (Compact Video Cassette) was the lightest and most portable recording system of its time. Widely known as the \"Technicolor Format,\" it used quarter-inch cassettes that were generally only available in a 30-minute length - a factor that contributed to its downfall.",
-        "references": "[0]: ?"
+        "vidipax": "CVC (Compact Video Cassette) was the lightest and most portable recording system of its time. Widely known as the \"Technicolor Format,\" it used quarter-inch cassettes that were generally only available in a 30-minute length - a factor that contributed to its downfall."
     },
     {
         "name": "CED",
@@ -699,13 +686,13 @@
         "format": "analog",
         "format2": "Tape",
         "developedBy": "RCA",
+        "manufacturers": "RCA",
         "market": "Consumer",
         "capacity": "60 min (per side)",
         "size": "12\" encased discs",
         "fact1": "This format used a special stylus and high-density groove system similar to  audio phonograph records; the discs  were stored in a caddy from which the disc would be extracted by the playback device",
         "fact2": "This format was cheaper to produce, both the player and discs, than the leading home video product at the time, VHS; unfortunately that also meant that the discs would wear down more rapidly with repeat playback",
-        "fact3": "Although originally designed in 1964, this format did not make it to market until 1981, where it was already obsolete compared to the VHS, BetaMax, and LaserDisc",
-        "references": "[0]: ?"
+        "fact3": "Although originally designed in 1964, this format did not make it to market until 1981, where it was already obsolete compared to the VHS, BetaMax, and LaserDisc"
     },
     {
         "name": "M",
@@ -714,17 +701,22 @@
         "era": "1981–",
         "format": "analog",
         "format2": "Cassette",
-        "market": "Professional",
+        "developedBy": "Matsushita, RCA",
+        "manufacturers": "Matsushita, RCA",
+        "market": "Industrial, Professional",
+        "region": "Europe",
+        "capacity": "20 minutes",
         "color": "Color",
         "encoding": "Component",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cassette",
         "bandwidth": "N/A",
-        "fact1": "\"It was the first component format consisting of two separate signal systems: one for luminance (Y) and another for chroma.\"",
-        "fact2": "\"The signals were recorded on the tape on separate tracks using separate heads. It was initially designed to use ordinary VHS cassettes.\"",
-        "vidipax": "Initially called Recam (recording camera) by Panasonic and Hawkeye by RCA, this format eventually became known as M, based on its SMPTE designation. It was the first component format consisting of two separate signal systems: one for luminance (Y) and another for chroma. The signals were recorded on the tape on separate tracks using separate heads. It was initially designed to use ordinary VHS cassettes.",
-        "references": "[0]: ?"
+        "fact1": "This was the first component format consisting of two separate signal systems: one for luminance (Y) and one for chroma.",
+        "fact2": "The signals were recorded on the tape on separate tracks using separate heads.",
+        "fact3": "\"The format was called \"M\" due to the shape of the threading path of the tape around the helical scan video head drum, which resembles a letter M.\"",
+        "fact4": "The format was initially designed to use ordinary VHS cassettes.",
+        "vidipax": "Initially called Recam (recording camera) by Panasonic and Hawkeye by RCA, this format eventually became known as M, based on its SMPTE designation. It was the first component format consisting of two separate signal systems: one for luminance (Y) and another for chroma. The signals were recorded on the tape on separate tracks using separate heads. It was initially designed to use ordinary VHS cassettes."
     },
     {
         "name": "Betacam",
@@ -734,8 +726,10 @@
         "format": "analog",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Industry/Education, Professional",
-        "capacity": "Short: Up to 63 minutes\nLong: Up to 194 minutes",
+        "region": "North America",
+        "capacity": "Short: 63 minutes\nLong: 194 minutes",
         "size": "Short: 15.6 × 9.6 × 2.5 cm \nLong: 25.4 × 14.5 × 2.5 cm",
         "color": "Color",
         "encoding": "Component",
@@ -746,16 +740,42 @@
         "fact1": "A blank Betamax  tape can work on a Betacam deck and a Betacam  tape can be used to record in  a Betamax deck (although  this practice is not  recommended)",
         "fact2": "The format is a higher- quality successor of Betamax  intended for professional  broadcast use instead of  home consumer use; unlike  Betamax, Betacam became  the dominant broadcast  format of its era.",
         "fact3": "Betacam came in  several different  formats; they all  use the same  cassette sizes  but had different  shell colors",
-        "vidipax": "Betacam was developed as another component-recording professional format, again designed to be able to use consumer cassettes, this time of the fairly popular Betamax format. It became the basis of a wide range of Sony professional video recording formats: Betacam SP, Digital Betacam, Betacam SX, MPEG IMX, and even HDCAM, all of which include at least one model that will play back 1982 Betacam tapes.",
-        "references": "[0]: ?"
+        "vidipax": "Betacam was developed as another component-recording professional format, again designed to be able to use consumer cassettes, this time of the fairly popular Betamax format. It became the basis of a wide range of Sony professional video recording formats: Betacam SP, Digital Betacam, Betacam SX, MPEG IMX, and even HDCAM, all of which include at least one model that will play back 1982 Betacam tapes."
+    },
+    {
+        "name": "VHS-C",
+        "id": "vhs-c",
+        "era": "1982–",
+        "format": "analog",
+        "format2": "Cassette",
+        "developedBy": "JVC",
+        "manufacturers": "JVC",
+        "market": "Consumer",
+        "region": "North America",
+        "capacity": "60 minutes",
+        "size": "9.2 × 5.8 × 2 cm",
+        "color": "Color",
+        "encoding": "Component (Color Under)",
+        "tapeType": "Oxide",
+        "tapeWidth": "1/2\"",
+        "hubType": "Cassette",
+        "bandwidth": "Low Band"
     },
     {
         "name": "VHD",
         "id": "vhd",
         "aka": "Video High Density",
-        "era": "1983–",
-        "format2": "Tape",
-        "references": "[0]: ?"
+        "era": "1983–1987",
+        "format": "analog",
+        "format2": "Disc in tape",
+        "developedBy": "JVC",
+        "manufacturers": "JVC",
+        "market": "Consumer",
+        "region": "Japan",
+        "capacity": "60 min (per side)",
+        "size": "Disc: 25 cm",
+        "color": "Color",
+        "fact1": "Used as a karaoke system."
     },
     {
         "name": "HDV1000",
@@ -764,6 +784,7 @@
         "format": "analog",
         "format2": "Reel",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Professional",
         "color": "1035I ?",
         "encoding": "High Definition",
@@ -771,8 +792,7 @@
         "tapeWidth": "1\"",
         "hubType": "Cassette",
         "bandwidth": "High Band",
-        "vidipax": "This was the first commercial high-definition format. It recorded component analog video on 1-inch open-reel tape. At the time it came out, HDTV had 1045 active lines and a 5:3 (15:9) aspect ratio. Although it was a standardized format and considered successful, very few were made and Sony was practically the only manufacturer.",
-        "references": "[0]: ?"
+        "vidipax": "This was the first commercial high-definition format. It recorded component analog video on 1-inch open-reel tape. At the time it came out, HDTV had 1045 active lines and a 5:3 (15:9) aspect ratio. Although it was a standardized format and considered successful, very few were made and Sony was practically the only manufacturer."
     },
     {
         "name": "Video8",
@@ -784,7 +804,8 @@
         "developedBy": "Kodak & Sony",
         "manufacturers": "Sony, Kodak, more",
         "market": "Consumer",
-        "capacity": "Up to 2 hours",
+        "region": "Japan, North America",
+        "capacity": "2 hours",
         "size": "9.5 × 6.2 × 1.5 cm",
         "color": "Color",
         "encoding": "Color Under",
@@ -795,8 +816,7 @@
         "fact1": "This format's appeal was around its smaller size, which made for much lighter camcorders than VHS or Betamax",
         "fact2": "This format was the first 8mm video tape format; its later predecessors were  Hi8 and Digital8",
         "fact3": "This format was initially launched by Kodak but Sony ended up dominating the market with its Handycam camcorder line",
-        "vidipax": "The 8mm name attempted to cash in on the popular home movie film used by consumers over the previous 40 years. With improved tape manufacture it became possible to pack more information onto the same tape width. The smallest tape introduced up until this time, it was the first format to use metal-particle tape, and produced a horizontal resolution of 240 lines. The single unit \"camcorders\", a lightweight camera and VTR, soon became the preferred method for home recording.",
-        "references": "[0]: ?"
+        "vidipax": "The 8mm name attempted to cash in on the popular home movie film used by consumers over the previous 40 years. With improved tape manufacture it became possible to pack more information onto the same tape width. The smallest tape introduced up until this time, it was the first format to use metal-particle tape, and produced a horizontal resolution of 240 lines. The single unit \"camcorders\", a lightweight camera and VTR, soon became the preferred method for home recording."
     },
     {
         "name": "D-1",
@@ -808,7 +828,7 @@
         "developedBy": "Sony",
         "manufacturers": "Sony, BTS",
         "market": "Professional",
-        "capacity": "Up to 94 minutes",
+        "capacity": "94 minutes",
         "size": "36.5 × 20.3 × 3.2 cm",
         "color": "Color",
         "encoding": "D 4:2:2",
@@ -819,8 +839,7 @@
         "fact1": "This format used  uncompressed  component video  (where video signals move  through 3  separate cables),  as opposed to  the more common  but more lossy  composite video  (where the video  signals are  compressed into  one signal)",
         "fact2": "This format was the first  major professional digital  video tape recording system",
         "fact3": "This was the first format  to store encoded YCbCr  4:2:2, a standard that still  influences uncompressed  video storage",
-        "vidipax": "D-1 was the first practical component digital format for commercial use. Although designed for broadcast use, it received little acceptance there, but was welcomed in graphics production. Multiple generations were now possible at broadcast quality with little picture degradation. Since the machine and tape were very expensive, the format was mainly used in high-end postproduction facilities that incorporate special effects with multiple layering of the video signal. Its high chrominance bandwidth allows for excellent chroma keying.",
-        "references": "[0]: ?"
+        "vidipax": "D-1 was the first practical component digital format for commercial use. Although designed for broadcast use, it received little acceptance there, but was welcomed in graphics production. Multiple generations were now possible at broadcast quality with little picture degradation. Since the machine and tape were very expensive, the format was mainly used in high-end postproduction facilities that incorporate special effects with multiple layering of the video signal. Its high chrominance bandwidth allows for excellent chroma keying."
     },
     {
         "name": "MII",
@@ -843,8 +862,7 @@
         "fact1": "This format was an  enhanced version of  its predecessor, the  failed M format; while  the cassettes were  similar, they used  different magnetic  tape  formulas and  signal processing  methods",
         "fact2": "This format was developed to compete with with Sony's Betacam SP format; while it gained some popularity, it largely lost out due to lack of reliable,  affordable repair support",
         "fact3": "The M and MII  formats, like the  U in U-matic and  the B in Beta,  were named after  the M-shape of  the tape threading  through a playback  device (and VHS  used this same  technique)",
-        "vidipax": "M-II was introduced as a major upgrade of the M format, using metal-particle tape. Although used extensively at NBC and NHK, it never received a great deal of acceptance in the professional video industry due to the broad acceptance of the Betacam family of formats. The recording technique is similar to Betacam SP but uses some enhancements that compensate for the lower tape speed.",
-        "references": "[0]: ?"
+        "vidipax": "M-II was introduced as a major upgrade of the M format, using metal-particle tape. Although used extensively at NBC and NHK, it never received a great deal of acceptance in the professional video industry due to the broad acceptance of the Betacam family of formats. The recording technique is similar to Betacam SP but uses some enhancements that compensate for the lower tape speed."
     },
     {
         "name": "U-matic SP",
@@ -855,14 +873,14 @@
         "format2": "Cassette",
         "developedBy": "Sony",
         "market": "Industry/Education",
+        "region": "North America",
         "color": "Color",
         "encoding": "Color Under",
         "tapeType": "Oxide",
         "tapeWidth": "0.75\"",
         "hubType": "Cassette",
         "bandwidth": "Medium Band",
-        "vidipax": "The SP achieved improvements over the original format by using a higher-energy tape and extending the FM carrier. There were very different versions for 525-line and 625-line picture formats. Unlike S-VHS, the deviation of the FM carrier was kept the same in both the SP and regular versions so that older machines could play the newer tapes. That was true even in 625-line formats, but an older, \"low-band\" U-matic was incompatible with both \"high-band\" and SP.",
-        "references": "[0]: ?"
+        "vidipax": "The SP achieved improvements over the original format by using a higher-energy tape and extending the FM carrier. There were very different versions for 525-line and 625-line picture formats. Unlike S-VHS, the deviation of the FM carrier was kept the same in both the SP and regular versions so that older machines could play the newer tapes. That was true even in 625-line formats, but an older, \"low-band\" U-matic was incompatible with both \"high-band\" and SP."
     },
     {
         "name": "Betacam SP",
@@ -873,14 +891,14 @@
         "developedBy": "Sony",
         "manufacturers": "Sony, Ampex, BTS",
         "market": "Industry/Education, Professional",
+        "region": "North America",
         "color": "Color",
         "encoding": "Component",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "N/A",
-        "vidipax": "Betacam SP (Superior Performance) is an improved version of the original Betacam and was an industry standard for most television stations and high-end production houses up until the late 90s. The improvements included the use of metal-particle tape that is capable of recording a higher bandwidth of video information than the standard oxide Betacam tape.",
-        "references": "[0]: ?"
+        "vidipax": "Betacam SP (Superior Performance) is an improved version of the original Betacam and was an industry standard for most television stations and high-end production houses up until the late 90s. The improvements included the use of metal-particle tape that is capable of recording a higher bandwidth of video information than the standard oxide Betacam tape."
     },
     {
         "name": "S-VHS",
@@ -891,14 +909,14 @@
         "developedBy": "JVC",
         "manufacturers": "JVC, ?",
         "market": "Industry/Education, Consumer",
+        "region": "Japan",
         "color": "Color",
         "encoding": "Color Under",
         "tapeType": "Oxide",
         "tapeWidth": "1/2\"",
         "hubType": "Cassette",
         "bandwidth": "Medium Band",
-        "vidipax": "S-VHS is an industrial variation on the VHS with superior quality and marketed as a high-end consumer format. With S-VHS came a pseudo-component connection system dubbed \"S-video\", which separates the chrominance and luminance signals, although not as purely as do the true component systems. Standard VHS tapes may be played and recorded on a S-VHS system, but the reverse is not true.",
-        "references": "[0]: ?"
+        "vidipax": "S-VHS is an industrial variation on the VHS with superior quality and marketed as a high-end consumer format. With S-VHS came a pseudo-component connection system dubbed \"S-video\", which separates the chrominance and luminance signals, although not as purely as do the true component systems. Standard VHS tapes may be played and recorded on a S-VHS system, but the reverse is not true."
     },
     {
         "name": "Pixelvision",
@@ -908,13 +926,15 @@
         "format": "analog",
         "format2": "Tape",
         "developedBy": "Fisher-Price",
+        "manufacturers": "Fisher-Price",
+        "market": "Consumer",
+        "region": "North America",
         "capacity": "11 minutes",
         "size": "10 × 6.3 × 1.3 cm",
-        "color": "Black & Whit",
+        "color": "Black & White",
         "fact1": "These camcorders recorded low resolution audio and video onto standard music audio cassettes",
         "fact2": "This format was sold as a toy camcorder produced by Fisher-Price in 1987; it was on the market for only one year, with about 400,000 units produced",
-        "fact3": "This format records the video track information on the left channel of the audio cassette  and the audio track is stored on the right",
-        "references": "[0]: ?"
+        "fact3": "This format records the video track information on the left channel of the audio cassette  and the audio track is stored on the right"
     },
     {
         "name": "D-2",
@@ -937,8 +957,7 @@
         "fact1": "D2 machines are capable of using either serial digital video or analog video connectors",
         "fact2": "While its predecessor, D1, used component video, D2  (and its successor,  D3) used digital composite",
         "fact3": "Ampex was awarded a technical  Emmy in 1989 for  the work on creating this format",
-        "vidipax": "D-2 is a digital composite format and was very successful at the time of its introduction. Some broadcasters used it as a direct replacement for 1\". The tapes are the same size as D-1, with cassettes that hold up to as much as 180 minutes of tape. Advances and expectations for component-based advanced television pretty much ended the interest in D-2 or anything else composite.",
-        "references": "[0]: ?"
+        "vidipax": "D-2 is a digital composite format and was very successful at the time of its introduction. Some broadcasters used it as a direct replacement for 1\". The tapes are the same size as D-1, with cassettes that hold up to as much as 180 minutes of tape. Advances and expectations for component-based advanced television pretty much ended the interest in D-2 or anything else composite."
     },
     {
         "name": "ED-Beta",
@@ -956,8 +975,7 @@
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "High Band",
-        "vidipax": "ED-Beta (Enhanced Definition) was introduced as a competitor to S-VHS and yet another higher-band version of Betamax but this time with incompatibilities. The format used metal tape and had a more stable transport but it found little use outside of sports.",
-        "references": "[0]: ?"
+        "vidipax": "ED-Beta (Enhanced Definition) was introduced as a competitor to S-VHS and yet another higher-band version of Betamax but this time with incompatibilities. The format used metal tape and had a more stable transport but it found little use outside of sports."
     },
     {
         "name": "HDD1000",
@@ -966,14 +984,14 @@
         "format": "digital",
         "format2": "Reel",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "color": "Color",
         "encoding": "High Definition",
         "tapeType": "Metal Particle",
         "tapeWidth": "1\"",
         "hubType": "Cassette",
         "bandwidth": "1920H",
-        "vidipax": "HDD-1000 was the first digital component high-definition recorder. At the time it was introduced, HDTV had 1035 active lines and a 16:9 aspect ratio. Recordings were made on 1-inch open-reel metal-particle tape. The tape was probably the most expensive videotape ever - $1,500 an hour. Again, although a standardized format, Sony was almost the only manufacturer.",
-        "references": "[0]: ?"
+        "vidipax": "HDD-1000 was the first digital component high-definition recorder. At the time it was introduced, HDTV had 1035 active lines and a 16:9 aspect ratio. Recordings were made on 1-inch open-reel metal-particle tape. The tape was probably the most expensive videotape ever - $1,500 an hour. Again, although a standardized format, Sony was almost the only manufacturer."
     },
     {
         "name": "Hi8",
@@ -996,8 +1014,7 @@
         "fact1": "All Hi8 equipment can play Video8 tapes, although the reverse is rarely possible",
         "fact2": "This format was created as an improvement to the Video8 format, with  greater bandwidth for the luminance signal, but no  increase to color resolution",
         "fact3": "Some professional Hi8 equipment could store additional digital stereo PCM sound on a special reserved track",
-        "vidipax": "Hi8 is a much improved, highband version of Video8 (8mm video). The peak-white frequency moved from 5.4 to 7.7 MHz. The deviation moved from 1.2 to 2 MHz (making it incompatible with Video8) It produced a horizontal resolution of over 400 lines and had an optional second AFM track for stereo sound.",
-        "references": "[0]: ?"
+        "vidipax": "Hi8 is a much improved, highband version of Video8 (8mm video). The peak-white frequency moved from 5.4 to 7.7 MHz. The deviation moved from 1.2 to 2 MHz (making it incompatible with Video8) It produced a horizontal resolution of over 400 lines and had an optional second AFM track for stereo sound."
     },
     {
         "name": "D-3",
@@ -1020,8 +1037,7 @@
         "fact1": "The technology  behind this format was developed by the NHK and  commercially distributed by Panasonic",
         "fact2": "This format was chosen as the archival digital video tape of choice  for the British Broadcasting Corporation (BBC) in 1998",
         "fact3": "D3 used the same technology as D2 but in a smaller cassette;  this format offered the only lossless digital tape camcorders available on the market ",
-        "vidipax": "Introduced as Panasonicís answer to Ampex's and Sony's D-2, the D-3 was promoted as a low-cost digital alternative. It is a composite digital format that uses *\" tape, in a cassette only slightly larger than VHS. The D-3 achieved more than twice the recording capacity of the composite D-2 format. The size offered the unique advantage of smaller portable equipment, as well as lower costs.",
-        "references": "[0]: ?"
+        "vidipax": "Introduced as Panasonicís answer to Ampex's and Sony's D-2, the D-3 was promoted as a low-cost digital alternative. It is a composite digital format that uses *\" tape, in a cassette only slightly larger than VHS. The D-3 achieved more than twice the recording capacity of the composite D-2 format. The size offered the unique advantage of smaller portable equipment, as well as lower costs."
     },
     {
         "name": "UniHi",
@@ -1038,8 +1054,7 @@
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "High Band",
-        "vidipax": "A half-inch, component analog HDTV format, housed in a cassette similar to VHS, UniHi is often considered the \"U-matic of HDTV\" (but with much higher quality). Unlike HDV-1000 and HDD-1000, Sony was not the only manufacturer. Machines from Panasonic, too, were common. ",
-        "references": "[0]: ?"
+        "vidipax": "A half-inch, component analog HDTV format, housed in a cassette similar to VHS, UniHi is often considered the \"U-matic of HDTV\" (but with much higher quality). Unlike HDV-1000 and HDD-1000, Sony was not the only manufacturer. Machines from Panasonic, too, were common. "
     },
     {
         "name": "DCT",
@@ -1048,6 +1063,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Ampex",
+        "manufacturers": "Ampex",
         "market": "Professional",
         "color": "Color",
         "encoding": "Compressed 4:2:2",
@@ -1055,8 +1071,7 @@
         "tapeWidth": "0.75\"",
         "hubType": "Cassette",
         "bandwidth": "720H",
-        "vidipax": "DCT (Digital Component Technology) was the first format to employ digital video compression to reduce recorded bit rate. The DCT units can switch between 525/60 and 625/50 operation, and allow a maximum recording time of more than three hours. DCT was the last videotape format manufactured by Ampex.",
-        "references": "[0]: ?"
+        "vidipax": "DCT (Digital Component Technology) was the first format to employ digital video compression to reduce recorded bit rate. The DCT units can switch between 525/60 and 625/50 operation, and allow a maximum recording time of more than three hours. DCT was the last videotape format manufactured by Ampex."
     },
     {
         "name": "Digital Betacam",
@@ -1066,6 +1081,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Professional",
         "capacity": "Small: 40 minutes\nLarge: 124 minutes",
         "size": "Small: 15.6 cm × 9.6 cm × 2.5 cm\nLarge: 25.4 cm × 14.5 cm × 2.5 cm",
@@ -1078,8 +1094,7 @@
         "fact1": "This format was in competition with the D1 format, but was significantly cheaper",
         "fact2": "Digital Betacam decks included SDI coaxial digital connections, which allowed digital signals to be sent on existing coaxial wiring",
         "fact3": "This format's cassettes are usually light blue, to distinguish them from other cassettes of the same size",
-        "vidipax": "Digital Betacam is the digital successor to Betacam and is considered to have almost the same quality as D-1 at half the cost and size. Digital Betacam uses mild data compression (2:1) to record color video, and was the first component digital ENG (electronic news gathering) format to use camcorders with a 40-minute record capacity. Some Digital Betacam machines can play Betacam SP tapes.",
-        "references": "[0]: ?"
+        "vidipax": "Digital Betacam is the digital successor to Betacam and is considered to have almost the same quality as D-1 at half the cost and size. Digital Betacam uses mild data compression (2:1) to record color video, and was the first component digital ENG (electronic news gathering) format to use camcorders with a 40-minute record capacity. Some Digital Betacam machines can play Betacam SP tapes."
     },
     {
         "name": "VCD",
@@ -1089,13 +1104,14 @@
         "format": "digital",
         "format2": "Disc",
         "developedBy": "Philips, Sony,\nPanasonic, JVC",
+        "manufacturers": "Philips, Sony,\nPanasonic, JVC",
         "market": "Consumer",
+        "region": "China, Japan, Southeast Asia",
         "capacity": "74 minutes",
         "size": "4.7\" discs",
         "fact1": "This format had the most  commercial success in China and Southeast Asia",
         "fact2": "The picture quality of this format was developed to be comparable to VHS video quality",
-        "fact3": "This format can be played in dedicated players as well as most DVD players, personal computers and some video game consoles",
-        "references": "[0]: ?"
+        "fact3": "This format can be played in dedicated players as well as most DVD players, personal computers and some video game consoles"
     },
     {
         "name": "D-5",
@@ -1104,6 +1120,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
+        "manufacturers": "Panasonic",
         "color": "Color",
         "encoding": "1899-12-30T09:02:02.000Z",
         "tapeType": "Metal Particle",
@@ -1111,8 +1128,7 @@
         "hubType": "Cassette",
         "bandwidth": "720H (960H)",
         "fact1": "There is no D-4",
-        "vidipax": "D-5 is based on the D-3 mechanical format but has been directed to the same product market as D-1. It is a component, rather than composite, non-compressed digital format. The tape speed is twice that of the D-3, but the common platform between the two allows D-3 tapes to be played on a D-5 machine. The recording time on a single cassette is reduced to two hours as it consumes twice as much tape as the D-3.",
-        "references": "[0]: ?"
+        "vidipax": "D-5 is based on the D-3 mechanical format but has been directed to the same product market as D-1. It is a component, rather than composite, non-compressed digital format. The tape speed is twice that of the D-3, but the common platform between the two allows D-3 tapes to be played on a D-5 machine. The recording time on a single cassette is reduced to two hours as it consumes twice as much tape as the D-3."
     },
     {
         "name": "D-6",
@@ -1121,14 +1137,14 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
+        "manufacturers": "Panasonic",
         "color": "HD/ Data?",
         "encoding": "High Definition",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.75\"",
         "hubType": "Cassette",
         "bandwidth": "1920H",
-        "vidipax": "D-6 is a digital VTR format intended for advanced television housed in a cassette similar to D-2. It is capable of recording any digital video standard proposed or currently in use, including full bandwidth HDTV. D-6 adapts its data segmentation and track layout to the system in use. It uses more heads and offers more audio channels than any other videotape format. D-6 is the only non-compressed HDTV format still being marketed.",
-        "references": "[0]: ?"
+        "vidipax": "D-6 is a digital VTR format intended for advanced television housed in a cassette similar to D-2. It is capable of recording any digital video standard proposed or currently in use, including full bandwidth HDTV. D-6 adapts its data segmentation and track layout to the system in use. It uses more heads and offers more audio channels than any other videotape format. D-6 is the only non-compressed HDTV format still being marketed."
     },
     {
         "name": "DV",
@@ -1145,8 +1161,7 @@
         "tapeWidth": "0.25\"",
         "hubType": "Cassette",
         "bandwidth": "720H",
-        "vidipax": "DV was the first digital recording format to reach the consumer market. Originally called DVC (digital video cassette) and now often referred to as MiniDV, this highly standardized quarter-inch cassette format records 4:1:1 525-line digital component video (or 4:2:0 625-line) using 5:1 compression. The compression forms the basis of not only DVCAM and DVCPRO but also the half-inch D-9 format. It can be said that DV/MiniDV is the poster child for small-format digital recorders.",
-        "references": "[0]: ?"
+        "vidipax": "DV was the first digital recording format to reach the consumer market. Originally called DVC (digital video cassette) and now often referred to as MiniDV, this highly standardized quarter-inch cassette format records 4:1:1 525-line digital component video (or 4:2:0 625-line) using 5:1 compression. The compression forms the basis of not only DVCAM and DVCPRO but also the half-inch D-9 format. It can be said that DV/MiniDV is the poster child for small-format digital recorders."
     },
     {
         "name": "DVCPRO",
@@ -1156,6 +1171,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
+        "manufacturers": "Panasonic",
         "market": "Industry/Education, Professional",
         "capacity": "Standard: 66 minutes\nLarge: 126 minutes",
         "size": "Standard: 9.7 × 6.35 × 1.4 cm\nLarge: 12.4 × 7.6 × 1.4 cm",
@@ -1168,8 +1184,7 @@
         "fact1": "DVCPRO50, introduced  in 1997, used two DV codecs in parallel, doubling the data rate over the original DVCPRO to 50 Mbps",
         "fact2": "Unlike baseline DV, DVCPRO uses locked audio, meaning the audio sample clock runs in sync with the video sample clock",
         "fact3": "DVCPRO cassettes were about  the same size as Video8, Hi8, & Digital8 cassettes",
-        "vidipax": "DVCPRO/D-7 is Panasonic's higher-speed professional variant of DV. The major difference is a higher tape speed: it uses metal-particle tape rather than the metal evaporated tape used for DV. The playback decks will play back DV and DVCAM but not vice versa.",
-        "references": "[0]: ?"
+        "vidipax": "DVCPRO/D-7 is Panasonic's higher-speed professional variant of DV. The major difference is a higher tape speed: it uses metal-particle tape rather than the metal evaporated tape used for DV. The playback decks will play back DV and DVCAM but not vice versa."
     },
     {
         "name": "MiniDV",
@@ -1179,13 +1194,14 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
+        "region": "North America",
         "capacity": "Up to 2 hours",
         "size": "6.5 × 4.8 × 1.2 cm",
         "fact1": "This format and all other DV formats support NTSC  analog Closed Captioning",
         "fact2": "This was the most popular format to use the DV codec",
         "fact3": "DV tapes  came in  four sizes, small, medium, large, and extra-large, and MiniDV was a size small",
-        "vidipax": "DV was the first digital recording format to reach the consumer market. Originally called DVC (digital video cassette) and now often referred to as MiniDV, this highly standardized quarter-inch cassette format records 4:1:1 525-line digital component video (or 4:2:0 625-line) using 5:1 compression. The compression forms the basis of not only DVCAM and DVCPRO but also the half-inch D-9 format. It can be said that DV/MiniDV is the poster child for small-format digital recorders.",
-        "references": "[0]: ?"
+        "vidipax": "DV was the first digital recording format to reach the consumer market. Originally called DVC (digital video cassette) and now often referred to as MiniDV, this highly standardized quarter-inch cassette format records 4:1:1 525-line digital component video (or 4:2:0 625-line) using 5:1 compression. The compression forms the basis of not only DVCAM and DVCPRO but also the half-inch D-9 format. It can be said that DV/MiniDV is the poster child for small-format digital recorders."
     },
     {
         "name": "W-VHS",
@@ -1202,8 +1218,7 @@
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "High Band",
-        "vidipax": "W-VHS is an analog high-definition format. It can switch to an NTSC mode, in which it can record either twice as much high-quality NTSC video or two different video signals. The latter function may be used for 3-D video. Due to its high cost, it never caught on as a consumer format, and, due to its reduced quality, it never caught on as a professional format.",
-        "references": "[0]: ?"
+        "vidipax": "W-VHS is an analog high-definition format. It can switch to an NTSC mode, in which it can record either twice as much high-quality NTSC video or two different video signals. The latter function may be used for 3-D video. Due to its high cost, it never caught on as a consumer format, and, due to its reduced quality, it never caught on as a professional format."
     },
     {
         "name": "Betacam SX",
@@ -1212,6 +1227,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Professional",
         "color": "Color",
         "encoding": "Compressed 4:2:2",
@@ -1220,8 +1236,8 @@
         "hubType": "Cassette",
         "bandwidth": "720H",
         "fact1": "stores video using MPEG-2 4:2:2 Profile@ML compression, along with four channels of 48 kHz 16 bit PCM audio.",
-        "vidipax": "Betacam SX uses the Beta cassette shell and records compressed component video using MPEG2 Studio Profile at Main Level compression, a 4:2:2 variant of MPEG. The recorded data rate is kept to a very low 18 Mbps so that news material recorded in the field may be sent back to the studio at twice normal speed on a standard DS-3 data connection. Betacam SX is targeted for ENG and newsroom use.",
-        "references": "[0]: ?"
+        "resourcesreferences": "https://pro.sony/ue_US/products/tape-media/betacam-sx",
+        "vidipax": "Betacam SX uses the Beta cassette shell and records compressed component video using MPEG2 Studio Profile at Main Level compression, a 4:2:2 variant of MPEG. The recorded data rate is kept to a very low 18 Mbps so that news material recorded in the field may be sent back to the studio at twice normal speed on a standard DS-3 data connection. Betacam SX is targeted for ENG and newsroom use."
     },
     {
         "name": "HD D-5",
@@ -1230,6 +1246,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
+        "manufacturers": "Panasonic",
         "market": "Professional",
         "color": "Color",
         "encoding": "Compressed 4:2:2",
@@ -1237,8 +1254,7 @@
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "1920H",
-        "vidipax": "A compressed high-definition version of D-5. The machine looks exactly the same as a normal D-5 and early versions of the machines could be used as standard D-5. Later models offer eight channels of audio. The earliest models had an external compression system. The latest models are capable of recording both interlaced and progressive-scan signals at a variety of frame and line rates.",
-        "references": "[0]: ?"
+        "vidipax": "A compressed high-definition version of D-5. The machine looks exactly the same as a normal D-5 and early versions of the machines could be used as standard D-5. Later models offer eight channels of audio. The earliest models had an external compression system. The latest models are capable of recording both interlaced and progressive-scan signals at a variety of frame and line rates."
     },
     {
         "name": "DVD",
@@ -1248,14 +1264,15 @@
         "format": "digital",
         "format2": "Disc",
         "developedBy": "Sony, Panasonic,\nPhilips, Toshiba",
+        "manufacturers": "Sony, Panasonic,\nPhilips, Toshiba",
         "market": "Consumer",
+        "region": "Global",
         "capacity": "4.7 GB (single-layer),\n8.5 GB (dual-layer),\nup to 17 GB",
         "size": "4.7\" discs",
         "tapeType": "Polycarbonate plastic disc substrate coated with a thin, reflective \"data layer\" composed of metal (commercial DVDs) or contains dyes (recordable, rewritable DVDs). DVDs may also be dual-layered/-sided.",
         "fact1": "Each disc contains one or more region codes, denoting the area(s) of the world in which distribution and playback are intended; players would be \"locked\" to one of six  specific regions",
         "fact2": "This format was the  dominant consumer  video format in the 2000s",
-        "fact3": "This format allowed for bonus features in addition to a feature film, like director's commentary tracks and extra scenes",
-        "references": "[0]: ?"
+        "fact3": "This format allowed for bonus features in addition to a feature film, like director's commentary tracks and extra scenes"
     },
     {
         "name": "DVCAM",
@@ -1265,6 +1282,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Industry/Education, Professional",
         "capacity": "Small: 40 minutes\nLarge: 184 minutes",
         "size": "Small: 6.5 × 4.8 × 1.2 cm\n\tLarge: 12.5 × 7.8 × 1.5 cm",
@@ -1277,8 +1295,7 @@
         "fact1": "Many high-end DVCAM players would convert unlocked audio to locked audio on playback",
         "fact2": "This format is Sony's response to Panasonic's DVCPRO, both of which target the professional instead of consumer video market",
         "fact3": "This format has tracks that are 50% wider than standard DV, which increased robustness and reliability",
-        "vidipax": "Sony's higher-speed professional variation on DV, it samples at 4:1:1 rate and has 5:1 compression. Audio is selectable between two PCM channels at 16 bit and 48 kHz, or four PCM channels at 12 bit and 32 kHz. Sony introduced a feature with the format that allowed for information such as good and bad takes to be recorded onto a memory chip that is housed inside the cassette.",
-        "references": "[0]: ?"
+        "vidipax": "Sony's higher-speed professional variation on DV, it samples at 4:1:1 rate and has 5:1 compression. Audio is selectable between two PCM channels at 16 bit and 48 kHz, or four PCM channels at 12 bit and 32 kHz. Sony introduced a feature with the format that allowed for information such as good and bad takes to be recorded onto a memory chip that is housed inside the cassette."
     },
     {
         "name": "HDCAM",
@@ -1288,6 +1305,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "JVC",
+        "manufacturers": "JVC",
         "market": "Professional",
         "capacity": "Small: 40 minutes\nLarge: 124 minutes",
         "size": "Small: 15.6 cm × 9.6 cm × 2.5 cm\nLarge: 25.4 cm × 14.5 cm × 2.5 cm",
@@ -1297,48 +1315,51 @@
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "1440H",
-        "fact1": "HDCAM cassettes were the same size as original  Betacam but had a  distinctive orange lid (and HDCAM SR cassettes  were black with a cyan lid)",
+        "fact1": "HDCAM cassettes were the same size as original  Betacam but had a  distinctive orange lid",
         "fact2": "This was the first HD  video format available  in a Betacam-sized cassette",
         "fact3": "This format's codec used  non-square pixels, so the recorded 1440x1080 content was then upsampled to 1920x1080 on playback   ",
         "fact4": "This format's codec used  non-square pixels, so the recorded 1440x1080 content was then upsampled to 1920x1080 on playback   ",
-        "vidipax": "HDCAM is a compressed digital HDTV format that employs both subsampling and compression to reduce data bandwidth. The latest models can deal with 1080-line signals either interlaced or progressive at a variety of frame rates (not exceeding 30 frames per second). Some models of HDCAM can also play Betacam, Betacam SP, Betacam SX, Digital Betacam, and MPEG IMX tapes.",
-        "references": "[0]: ?"
+        "fact5": "Some HDCAM VTRs play back older Betacam variants",
+        "vidipax": "HDCAM is a compressed digital HDTV format that employs both subsampling and compression to reduce data bandwidth. The latest models can deal with 1080-line signals either interlaced or progressive at a variety of frame rates (not exceeding 30 frames per second). Some models of HDCAM can also play Betacam, Betacam SP, Betacam SX, Digital Betacam, and MPEG IMX tapes."
     },
     {
         "name": "DVCPRO 50",
         "id": "dvcpro-50",
-        "era": "1998–",
+        "era": "1998–2010s",
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
         "manufacturers": "Panasonic",
         "market": "Professional",
+        "region": "North America",
+        "size": "Standard: 9.7 × 6.35 × 1.4 cm\nLarge: 12.4 × 7.6 × 1.4 cm",
         "color": "Color",
         "encoding": "Compressed 4:2:2",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.25\"",
         "hubType": "Cassette",
         "bandwidth": "720H",
-        "vidipax": "This is an extension of the DVCPRO format featuring 4:2:2 sampling and milder compression. The compression was initially achieved by using two standard DV compression engines running in parallel.",
-        "references": "[0]: ?"
+        "vidipax": "This is an extension of the DVCPRO format featuring 4:2:2 sampling and milder compression. The compression was initially achieved by using two standard DV compression engines running in parallel."
     },
     {
         "name": "DVCPRO 50/P",
         "id": "dvcpro-50p",
-        "era": "1998–",
+        "aka": "DVCPRO Progressive",
+        "era": "1998–2010s",
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
         "manufacturers": "Panasonic",
         "market": "Professional",
+        "region": "North America",
+        "size": "Standard: 9.7 × 6.35 × 1.4 cm\nLarge: 12.4 × 7.6 × 1.4 cm",
         "color": "480P",
         "encoding": "Compressed 4:2:0 Progressive",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.25\"",
         "hubType": "Cassette",
         "bandwidth": "720H",
-        "vidipax": "This is a progressive-video version of DVCPRO50. All 1997-and-earlier videotape formats recorded only interlaced video - video in which each frame was divided into two \"fields\", one comprised of all the odd-numbered scanning lines and the other of all the even. Thus, in 30-frame-per-second video, there are actually 60 half-vertical-resolution images per second. Progressive-scan signals contain all scanning lines in all images. DVCPRO50P can record 60 such images per second.",
-        "references": "[0]: ?"
+        "vidipax": "This is a progressive-video version of DVCPRO50. All 1997-and-earlier videotape formats recorded only interlaced video - video in which each frame was divided into two \"fields\", one comprised of all the odd-numbered scanning lines and the other of all the even. Thus, in 30-frame-per-second video, there are actually 60 half-vertical-resolution images per second. Progressive-scan signals contain all scanning lines in all images. DVCPRO50P can record 60 such images per second."
     },
     {
         "name": "Digital8",
@@ -1348,8 +1369,9 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Consumer",
-        "capacity": "Up to 90 minutes",
+        "capacity": "90 minutes",
         "size": "9.5 × 6.2 × 1.5 cm",
         "color": "Color",
         "encoding": "Compressed 4:1:1",
@@ -1360,8 +1382,7 @@
         "fact1": "This was the first tape format to use the DV codec, a format that stores lossy compressed video",
         "fact2": "While predecessor 8mm formats Video8 and Hi8 were analog, Digital8 stored digital video",
         "fact3": "Digital8 decks could only record in DV but could still read Video8 and Hi8 tapes",
-        "vidipax": "Digital8 records the same signal as DV but uses the less-expensive Hi8 tape and can play back old analog 8mm/Hi8 tapes. A 120-minute High 8 tape can record 60 minutes in Digital8 format. Digital8 has two PCM 16-bit audio channels and a Firewire port. It also has analog inputs, which are offered to consumers as an easy means of digitally archiving their existing VHS/VHS-C libraries.",
-        "references": "[0]: ?"
+        "vidipax": "Digital8 records the same signal as DV but uses the less-expensive Hi8 tape and can play back old analog 8mm/Hi8 tapes. A 120-minute High 8 tape can record 60 minutes in Digital8 format. Digital8 has two PCM 16-bit audio channels and a Firewire port. It also has analog inputs, which are offered to consumers as an easy means of digitally archiving their existing VHS/VHS-C libraries."
     },
     {
         "name": "D-9 HD",
@@ -1370,15 +1391,16 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "JVC",
+        "manufacturers": "JVC",
         "market": "Professional",
-        "color": "1080I / 720P",
+        "color": "Color",
         "encoding": "Compressed High Definition",
+        "resolution": "1080I / 720P",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.5\"",
         "hubType": "Cassette",
         "bandwidth": "1440H",
-        "vidipax": "D-9 HD is a 100 Mbps version of D-9, used for recording compressed and subsampled HDTV. The compression scheme is DCT (Discrete Cosine Transform) and uses a mild 3:3:1 intraframe compression. Like standard D-9, D-9 HD uses parallel recording which employs twice the number of heads as D-9. It supports eight independently editable audio channels, making it suitable for surround sound audio editing as well as multi-language dubbing. D-9 HD uses the same tape as D-9 and previously recorded 50 Mbps D-9 tapes can play back on the D-9 HD VTRs.",
-        "references": "[0]: ?"
+        "vidipax": "D-9 HD is a 100 Mbps version of D-9, used for recording compressed and subsampled HDTV. The compression scheme is DCT (Discrete Cosine Transform) and uses a mild 3:3:1 intraframe compression. Like standard D-9, D-9 HD uses parallel recording which employs twice the number of heads as D-9. It supports eight independently editable audio channels, making it suitable for surround sound audio editing as well as multi-language dubbing. D-9 HD uses the same tape as D-9 and previously recorded 50 Mbps D-9 tapes can play back on the D-9 HD VTRs."
     },
     {
         "name": "DVCPRO HD",
@@ -1387,15 +1409,16 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Panasonic",
+        "manufacturers": "Panasonic",
         "market": "Professional",
-        "color": "1080I / 720P",
+        "color": "Color",
         "encoding": "Compressed High Definition",
+        "resolution": "1080I / 720P",
         "tapeType": "Metal Particle",
         "tapeWidth": "0.25\"",
         "hubType": "Cassette",
         "bandwidth": "1440H",
-        "vidipax": "A high-definition version of DVCPRO recording the same signals as D-9 HD but on a quarter-inch cassette. DVCPRO HD machines can play all previous forms of DVCPRO tapes as well as DVCAM and DV tapes. The \"LP\" version uses half-speed recording to increase capacity.",
-        "references": "[0]: ?"
+        "vidipax": "A high-definition version of DVCPRO recording the same signals as D-9 HD but on a quarter-inch cassette. DVCPRO HD machines can play all previous forms of DVCPRO tapes as well as DVCAM and DV tapes. The \"LP\" version uses half-speed recording to increase capacity."
     },
     {
         "name": "MPEG IMX",
@@ -1404,6 +1427,7 @@
         "format": "digital",
         "format2": "Cassette",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Professional",
         "color": "Color",
         "encoding": "Compressed 4:2:2",
@@ -1412,8 +1436,26 @@
         "hubType": "Cassette",
         "bandwidth": "720H",
         "fact1": "2001 development of the Digital Betacam format",
-        "vidipax": "Another member of the Betacam family, MPEG IMX can compress and decompress video and can also be used as a data recorder. MPEG IMX was the first videotape recorder designed from scratch to be a data recorder. Some models can also play Betacam, Betacam SP, Betacam SX, and Digital Betacam tapes.",
-        "references": "[0]: ?"
+        "resourcesreferences": "https://pro.sony/ue_US/products/tape-media/mpeg-imx",
+        "vidipax": "Another member of the Betacam family, MPEG IMX can compress and decompress video and can also be used as a data recorder. MPEG IMX was the first videotape recorder designed from scratch to be a data recorder. Some models can also play Betacam, Betacam SP, Betacam SX, and Digital Betacam tapes."
+    },
+    {
+        "name": "HDCAM SR",
+        "id": "hdcam-sr",
+        "aka": "SMPTE 409M-2005",
+        "era": "2003–2016",
+        "format": "digital",
+        "format2": "Cassette",
+        "developedBy": "Sony",
+        "manufacturers": "Sony",
+        "market": "Professional",
+        "color": "Color",
+        "encoding": "10 bit 4:2:2 or 4:4:4 RGB ",
+        "tapeType": "(High Density) Metal Particle",
+        "tapeWidth": "0.5\"",
+        "hubType": "Cassette",
+        "fact1": "HDCAM SR cassettes were black with a cyan lid",
+        "fact2": "HDCAM SR was widely used in North American television in the mid-2000s"
     },
     {
         "name": "HDV",
@@ -1423,15 +1465,16 @@
         "format": "digital",
         "format2": "Tape",
         "developedBy": "HDV Consortium",
+        "manufacturers": "HDV Consortium",
         "market": "Professional",
-        "capacity": "Up to 63 minutes",
+        "capacity": "63 minutes",
         "size": "6.5 × 4.8 × 1.2 cm",
         "color": "Color",
         "encoding": "MPEG-2",
+        "hubType": "Cassette",
         "fact1": "Two major versions of this format  were HDV 720p (HDV1) and HDV  1080i (HDV2); the former was used by JVC and the latter was used by Sony & Canon",
         "fact2": "This format was popular due to its low cost, portability, and high image quality",
-        "fact3": "This format was developed by a consortium of companies: JVC, Sony, Canon, and Sharp",
-        "references": "[0]: ?"
+        "fact3": "This format was developed by a consortium of companies: JVC, Sony, Canon, and Sharp"
     },
     {
         "name": "XDCAM",
@@ -1441,15 +1484,16 @@
         "format": "digital",
         "format2": "Tape",
         "developedBy": "Sony",
+        "manufacturers": "Sony",
         "market": "Professional",
         "capacity": "Various",
         "size": "Various",
         "color": "Color",
         "encoding": "MPEG-2",
+        "hubType": "Cassette",
         "fact1": "XDCAM uses random access solid-state memory media cards to store digital video",
         "fact2": "This format was mostly used for high-end professional camera work",
-        "fact3": "This format included four different products, XDCAM SD, XDCAM HD, XDCAM EX and XDCAM HD422, which used different encoders, frame size, container types, media, and were marketed for different purposes and budgets",
-        "references": "[0]: ?"
+        "fact3": "This format included four different products, XDCAM SD, XDCAM HD, XDCAM EX and XDCAM HD422, which used different encoders, frame size, container types, media, and were marketed for different purposes and budgets"
     },
     {
         "name": "Blu-ray",
@@ -1459,14 +1503,16 @@
         "format": "digital",
         "format2": "Disc",
         "developedBy": "Blu-ray Disc Association",
+        "manufacturers": "lots",
         "market": "Consumer",
+        "region": "North America",
         "capacity": "25 GB (single-layer),\n50 GB (dual-layer),\nup to 128 GB",
         "size": "4.7\" discs",
         "color": "Color",
+        "hubType": "-",
         "fact1": "These discs can have up to four layers, with each layer offering more potential capacity",
         "fact2": "While most discs are region-free, the Blu-ray Disc region coding scheme divides the world into three regions, labeled A, B, and C ",
-        "fact3": "This format's name refers to the \"blue\" (violet) laser used to read the disc, which is stronger than the (longer wavelength) red laser used to make DVDs ",
-        "references": "[0]: ?"
+        "fact3": "This format's name refers to the \"blue\" (violet) laser used to read the disc, which is stronger than the (longer wavelength) red laser used to make DVDs "
     },
     {
         "name": "UMD",
@@ -1481,7 +1527,7 @@
         "capacity": "\t900 MB (single layer), 1.8 GB (dual layer)",
         "size": "4.7\" discs",
         "color": "Color",
-        "fact1": "DVD region coding has been applied to most UMD movies and music. However, all PSP games are region-free.",
-        "references": "[0]: ?"
+        "hubType": "-",
+        "fact1": "DVD region coding has been applied to most UMD movies and music. However, all PSP games are region-free."
     }
 ]

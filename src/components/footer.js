@@ -25,7 +25,7 @@ const Footer = () => (
             transform="translate(75 100)"
           />
         </svg>
-        <span className="pr-8 lg:pr-12 mt-1 lg:mt-0  font-bold hover:text-orange-900">
+        <span className="pr-8 lg:pr-12 mt-1 lg:mt-0 font-bold hover:text-orange-900">
           Data
         </span>
       </Link>

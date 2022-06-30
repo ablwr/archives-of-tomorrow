@@ -87,6 +87,7 @@ main a {
 }
 
 main a:hover {
+    /* orange-300 */
     color: #FDBA74;
     text-decoration: underline dotted;
 }
