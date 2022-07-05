@@ -41,6 +41,12 @@ const IndexPage = () => (
       <p className="italic justify-center text-center text-slate-500">
         Publishing & more!
       </p>
+      <p className="bg-orange-400 text-center max-w-xs p-4 m-2 justify-right text-white rounded-3xl">
+        Want updates? Sign up for the{" "}
+        <a className="text-orange-100" href="http://eepurl.com/h5MFNn">
+          mailing list!
+        </a>
+      </p>
     </>
   </Layout>
 );

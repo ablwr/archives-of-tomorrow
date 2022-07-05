@@ -13,6 +13,10 @@ const IndexPage = () => (
         this to <Link to="/books/">publish books</Link> and provide free
         educational materials about audiovisual formats.
       </p>
+      <p className="ax-w-xl justify-self-center text-orange-600">
+        If you'd like to support my work, you can use{" "}
+        <a href="https://ko-fi.com/ablwr">Ko-fi</a> to "buy me a coffee"!
+      </p>
     </>
   </Layout>
 );
