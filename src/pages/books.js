@@ -1,5 +1,6 @@
 import Layout from "../components/layout";
 import * as React from "react";
+// @ts-ignore
 import cover from "../images/video-cover.jpg";
 
 const IndexPage = () => (
@@ -35,7 +36,7 @@ const IndexPage = () => (
             </ul>
           </div>
         </div>
-        <div className="grid justify-items-center pb-8 lg:border-l-2 lg:border-orange-900">
+        <div className="grid justify-items-center pb-8 lg:border-l-2 lg:border-orange-600">
           <h2 className="text-3xl font-bold pb-4">
             The Illustrated Guide to Video Formats
           </h2>
