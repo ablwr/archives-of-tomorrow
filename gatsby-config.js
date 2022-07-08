@@ -1,5 +1,4 @@
 module.exports = {
-  //   pathPrefix: "/archives-of-tomorrow",
   siteMetadata: {
     title: `Archives of Tomorrow`,
     description: ``,
@@ -44,6 +43,6 @@ module.exports = {
         path: `${__dirname}/src/data`,
       },
     },
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-serviceworker`,
   ],
 };
