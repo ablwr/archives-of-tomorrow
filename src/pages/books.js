@@ -11,7 +11,7 @@ const IndexPage = () => (
         <strong>The Illustrated Guide to Video Formats</strong> is now
         available!
       </h2>
-      <div className="lg:w-9/12 pl-8 list-disc text-left grid gap-4 lg:grid-cols-4">
+      <div className="lg:w-9/12 list-disc text-left grid gap-4 lg:grid-cols-4">
         <div className="text-center p-4 border-2 border-orange-600">
           Request at{" "}
           <a href="https://www.indiebound.org/">your local bookstore</a>!
