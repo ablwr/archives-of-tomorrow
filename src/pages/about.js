@@ -36,7 +36,8 @@ const IndexPage = () => (
               This website is here to support{" "}
               <Link to="/books/">published books</Link> and provide{" "}
               <Link to="/data/">free educational materials</Link> about
-              audiovisual formats.
+              audiovisual formats. Also,{" "}
+              <a href="https://ablwr.redbubble.com">stickers</a>!
             </p>
             <p className="pt-4 lg:w-9/12">
               If you'd like to support this work, you can use{" "}

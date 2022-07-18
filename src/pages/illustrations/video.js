@@ -12,7 +12,7 @@ const VideoIllustrations = ({ data }) => (
           return (
             <div className="" key={edge.node.base}>
               <img
-                loading="lazy"
+                // loading="lazy"
                 src={edge.node.publicURL}
                 alt={edge.node.base}
               />
