@@ -23,14 +23,14 @@ const IllustrationsPage = () => (
         <div className="grid lg:grid-cols-4 gap-4 m-8">
           <div className="text-center p-2 border-2 border-orange-600">
             <Link to="/illustrations/video">
-              <img src={video} />
+              <img alt="video" src={video} />
               <br />
               Video
             </Link>
           </div>
           <div className="text-center p-4 border-2 border-orange-600">
             <a href="https://github.com/ablwr/illustrations/tree/main/cables">
-              <img src={cables} />
+              <img alt="cables" src={cables} />
               <br />
               Cables
             </a>

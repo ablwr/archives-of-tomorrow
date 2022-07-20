@@ -11,15 +11,20 @@ const IndexPage = () => (
         <strong>The Illustrated Guide to Video Formats</strong> is now
         available!
       </h2>
-      <div className="lg:w-9/12 list-disc text-left grid gap-4 lg:grid-cols-4">
+      <div className="lg:w-8/12 list-disc text-left grid gap-2 lg:grid-cols-5">
         <div className="text-center p-4 border-2 border-orange-600">
           Request at{" "}
           <a href="https://www.indiebound.org/">your local bookstore</a>!
         </div>
+        <div className="text-center p-4 border-2 border-orange-600">
+          <a href="https://bookshop.org/books/the-illustrated-guide-to-video-formats/9781958543009">
+            Bookshop.org
+          </a>
+        </div>
         <div className="p-4 bg-orange-400 text-center text-white">
-          <h2 className="text-3xl">Buy one, give one!</h2>
+          <h2 className="text-2xl">Buy one, give one!</h2>
           <p className="text-base">(available for a short period of time)</p>
-          <div className="pt-2 pb-2 font-bold">
+          <div className="pt-2 pb-2 text-xl font-bold">
             <a href="https://ko-fi.com/s/00e5125a6e">Buy here (via Ko-fi)</a>
           </div>
         </div>
@@ -28,7 +33,8 @@ const IndexPage = () => (
             Amazon
           </a>
           <p className="text-base">
-            Non-U.S., check your regional Amazon (e.g. amazon.de, amazon.co.uk)
+            Non-U.S., check your regional Amazon (e.g. amazon.de, amazon.jp,
+            amazon.co.uk)
           </p>
         </div>
         <div className="text-center p-4 border-2 border-orange-600">
