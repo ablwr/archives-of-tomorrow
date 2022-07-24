@@ -22,11 +22,10 @@ const IndexPage = () => (
           </a>
         </div>
         <div className="p-4 bg-orange-400 text-center text-white">
-          <h2 className="text-2xl">Buy one, give one!</h2>
-          <p className="text-base">(available for a short period of time)</p>
-          <div className="pt-2 pb-2 text-xl font-bold">
-            <a href="https://ko-fi.com/s/00e5125a6e">Buy here (via Ko-fi)</a>
+          <div className="text-center p-4 border-2 border-orange-600">
+            <a href="https://ko-fi.com/s/00e5125a6e">Ko-fi</a>
           </div>
+          <div className="pt-2 pb-2 text-xl font-bold">(now sold out!)</div>
         </div>
         <div className="text-center p-4 border-2 border-orange-600">
           <a href="https://smile.amazon.com/Illustrated-Guide-Video-Formats/dp/1958543004">
