@@ -11,7 +11,7 @@ const IndexPage = () => (
         <strong>The Illustrated Guide to Video Formats</strong> is now
         available!
       </h2>
-      <div className="lg:w-8/12 list-disc text-left grid gap-2 lg:grid-cols-5">
+      <div className="lg:w-8/12 list-disc text-left grid gap-2 lg:grid-cols-4">
         <div className="text-center p-4 border-2 border-orange-600">
           Request at{" "}
           <a href="https://www.indiebound.org/">your local bookstore</a>!
@@ -39,6 +39,16 @@ const IndexPage = () => (
         <div className="text-center p-4 border-2 border-orange-600">
           <a href="https://www.barnesandnoble.com/w/the-illustrated-guide-to-video-formats-ashley-blewer/1141757839">
             Barnes & Noble
+          </a>
+        </div>
+        <div className="text-center p-4 border-2 border-orange-600">
+          <a href="https://www.chapters.indigo.ca/en-ca/books/the-illustrated-guide-to-video/9781958543009-item.html">
+            Chapters/Indigo
+          </a>
+        </div>
+        <div className="text-center p-4 border-2 border-orange-600">
+          <a href="https://www.waterstones.com/book/the-illustrated-guide-to-video-formats/ashley-blewer/ashley-blewer/9781958543009">
+            Waterstones
           </a>
         </div>
       </div>
