@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarchives_of_tomorrow=self.webpackChunkarchives_of_tomorrow||[]).push([[883],{429:function(e,o,r){r.r(o);var t=r(7294),l=r(1977);o.default=()=>t.createElement(l.Z,null,t.createElement("h1",null,"404: Not Found"))}}]);
+//# sourceMappingURL=component---src-pages-404-js-ba98179518fad7f00c70.js.map
