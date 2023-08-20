@@ -1,5 +1,4 @@
 _site/
-package-lock.json
 node_modules/
 .cache
 test/stubs-layout-cache/_includes/*.js

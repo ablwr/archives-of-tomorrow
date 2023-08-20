@@ -8,7 +8,7 @@
     },
     "keywords": [],
     "author": "Ashley Blewer",
-    "license": "ISC",
+    "license": "not defined",
     "devDependencies": {
         "@11ty/eleventy": "^2.0.1",
         "@types/node": "^20.4.2"
