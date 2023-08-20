@@ -1,3 +1,4 @@
 [submodule "images/illustrations"]
 	path = images/illustrations
+	url = git://github.com/ablwr/illustrations/
 	url = https://github.com/ablwr/illustrations/
