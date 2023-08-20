@@ -11,4 +11,5 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./assets/conduit_itc-webfont.woff");
   eleventyConfig.addPassthroughCopy("./assets/conduit_itc-webfont.woff2");
   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("images/illustrations");
 };
