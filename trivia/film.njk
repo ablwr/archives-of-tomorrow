@@ -1,0 +1,42 @@
+---
+layout: trivia.njk
+title: Media Formats Trivia - Playing film
+pagination:
+    data: film
+    size: 1
+    alias: film
+permalink: "trivia/film/{{ film.index | slugify }}/"
+---
+
+<div id="card">
+    <div id="front">
+        <div>{{film.fact1}}</div>
+    </div>
+    <div id="back" class="hide">
+        <div class="image">
+            <img src={{"/images/illustrations/film/"+film.era.slice(0,4)+"-"+film.id+"-1.svg"}} />
+        </div>
+        <h2>{{film.name}}</h2>
+        <div id="info">
+            <div><span>AKA</span>
+                <div>{{film.aka}}</div>
+            </div>
+            <div><span>Era</span>
+                <div>{{film.era}}</div>
+            </div>
+            <div><span>Format</span>
+                <div>{{film.format}}</div>
+            </div>
+            <div><span>Developed by</span>
+                <div>{{film.developedBy}}</div>
+            </div>
+            <div><span>Aspect ratio</span>
+                <div>{{film.aspectRatio}}</div>
+            </div>
+            <div><span>Size</span>
+                <div>{{film.size}}</div>
+            </div>
+        </div>
+        <a href="/film/{{ film.id }}">Learn more</a>
+    </div>
+</div>

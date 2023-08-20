@@ -1,0 +1,41 @@
+---
+layout: trivia.njk
+title: Media Formats Trivia - Playing all
+pagination:
+    data: all
+    size: 1
+    alias: all
+permalink: "all/{{ all.index | slugify }}/"
+---
+
+<div id="card">
+    <div id="front">
+        <div>{{all.fact1}}</div>
+    </div>
+    <div id="back" class="hide">
+        <div class="image">
+            <img src={{"/images/illustrations/all/"+all.era.slice(0,4)+"-"+all.id+"-1.svg"}} />
+        </div>
+        <h2>{{all.name}}</h2>
+        <div id="info">
+            <div><span>AKA</span>
+                <div>{{all.aka}}</div>
+            </div>
+            <div><span>Era</span>
+                <div>{{all.era}}</div>
+            </div>
+            <div><span>Format</span>
+                <div>{{all.format}}</div>
+            </div>
+            <div><span>Developed by</span>
+                <div>{{all.developedBy}}</div>
+            </div>
+            <div><span>(Max) Capacity</span>
+                <div>{{all.capacity}}</div>
+            </div>
+            <div><span>Size</span>
+                <div>{{all.size}}</div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - Film
+permalink: "data/film/"
+---
+
+<h1>Film</h1>
+
+<ul class="group">
+{% for a in film %}
+<li><a href="/film/{{ a.id }}">{{ a.name }}</a></li>
+{% endfor %}
+</ul>
+

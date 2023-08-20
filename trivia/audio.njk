@@ -1,0 +1,42 @@
+---
+layout: trivia.njk
+title: Media Formats Trivia - Playing audio
+pagination:
+    data: audio
+    size: 1
+    alias: audio
+permalink: "trivia/audio/{{ audio.index | slugify }}/"
+---
+
+<div id="card">
+    <div id="front">
+        <div>{{audio.fact1}}</div>
+    </div>
+    <div id="back" class="hide">
+        <div class="image">
+            <img src={{"/images/illustrations/audio/"+audio.era.slice(0,4)+"-"+audio.id+"-1.svg"}} />
+        </div>
+        <h2>{{audio.name}}</h2>
+        <div id="info">
+            <div><span>AKA</span>
+                <div>{{audio.aka}}</div>
+            </div>
+            <div><span>Era</span>
+                <div>{{audio.era}}</div>
+            </div>
+            <div><span>Format</span>
+                <div>{{audio.format}}</div>
+            </div>
+            <div><span>Developed by</span>
+                <div>{{audio.developedBy}}</div>
+            </div>
+            <div><span>(Max) Capacity</span>
+                <div>{{audio.capacity}}</div>
+            </div>
+            <div><span>Size</span>
+                <div>{{audio.size}}</div>
+            </div>
+        </div>
+        <a href="/audio/{{ audio.id }}">Learn more</a>
+    </div>
+</div>

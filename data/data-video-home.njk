@@ -1,0 +1,14 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - video
+permalink: "data/video/"
+---
+
+<h1>Video</h1>
+
+<ul class="group">
+{% for a in video %}
+<li><a href="/video/{{ a.id }}">{{ a.name }}</a></li>
+{% endfor %}
+</ul>
+

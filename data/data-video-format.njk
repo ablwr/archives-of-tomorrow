@@ -1,0 +1,51 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - {{ video.name }}
+pagination:
+    data: video
+    size: 1
+    alias: video
+permalink: "video/{{ video.id }}/"
+---
+
+
+<div class="image fit">
+    <img src={{"/images/illustrations/video/"+video.era.slice(0,4)+"-"+video.id+"-1.svg"}} />
+</div>
+<h2>{{video.name}}</h2>
+<div id="info">
+    <div><span>AKA</span>
+        <div>{{video.aka}}</div>
+    </div>
+    <div><span>Era</span>
+        <div>{{video.era}}</div>
+    </div>
+    <div><span>Analog/digital</span>
+        <div>{{video.format}}</div>
+    </div>
+    <div><span>Format</span>
+        <div>{{video.format2}}</div>
+    </div>
+    <div><span>Developed by</span>
+        <div>{{video.developedBy}}</div>
+    </div>
+    <div><span>(Max) Capacity</span>
+        <div>{{video.capacity}}</div>
+    </div>
+    <div><span>Size</span>
+        <div>{{video.size}}</div>
+    </div>
+</div>
+<ul id="facts">
+    <li>{{video.fact1}}</li>
+    <li>{{video.fact2}}</li>
+    <li>{{video.fact3}}</li>
+    {% if video.fact4 %}<li>{{video.fact4}}</li>{% endif %}
+    {% if video.fact5 %}<li>{{video.fact5}}</li>{% endif %}
+</ul>
+<div class="image fit">
+    <img src={{"/images/illustrations/video/"+video.era.slice(0,4)+"-"+video.id+"-2.svg"}} />
+</div>
+<div class="image fit">
+    <img src={{"/images/illustrations/video/"+video.era.slice(0,4)+"-"+video.id+"-3.svg"}} />
+</div>

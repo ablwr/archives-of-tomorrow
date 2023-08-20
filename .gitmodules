@@ -1,0 +1,3 @@
+[submodule "images/illustrations"]
+	path = images/illustrations
+	url = https://github.com/ablwr/illustrations/

@@ -1,0 +1,51 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - {{ film.name }}
+pagination:
+    data: film
+    size: 1
+    alias: film
+permalink: "film/{{ film.id }}/"
+---
+
+
+<div class="image fit">
+    <img src={{"/images/illustrations/film/"+film.era.slice(0,4)+"-"+film.id+"-1.svg"}} />
+</div>
+<h2>{{film.name}}</h2>
+<div id="info">
+    <div><span>AKA</span>
+        <div>{{film.aka}}</div>
+    </div>
+    <div><span>Era</span>
+        <div>{{film.era}}</div>
+    </div>
+    <div><span>Format</span>
+        <div>{{film.format}}</div>
+    </div>
+    <div><span>Developed by</span>
+        <div>{{film.developedBy}}</div>
+    </div>
+    <div><span>(Max) Capacity</span>
+        <div>{{film.aspectRatio}}</div>
+    </div>
+    <div><span>Size</span>
+        <div>{{film.size}}</div>
+    </div>
+    <div><span>Perforations</span>
+        <div>{{film.perfs}}</div>
+    </div>
+    <div><span>Frame size picture area</span>
+        <div>{{film.frameSizePictureArea}}</div>
+    </div>
+</div>
+<ul id="facts">
+    <li>{{film.fact1}}</li>
+    <li>{{film.fact2}}</li>
+    <li>{{film.fact3}}</li>
+    {% if film.fact4 %}<li>{{film.fact4}}</li>{% endif %}
+    {% if film.fact5 %}<li>{{film.fact5}}</li>{% endif %}
+</ul>
+<div class="image fit">
+    <img src={{"/images/illustrations/film/"+film.era.slice(0,4)+"-"+film.id+"-2.svg"}} />
+</div>

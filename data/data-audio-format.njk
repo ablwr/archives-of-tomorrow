@@ -1,0 +1,46 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - {{ audio.name }}
+pagination:
+    data: audio
+    size: 1
+    alias: audio
+permalink: "audio/{{ audio.id }}/"
+---
+
+
+<div class="image fit">
+    <img src={{"/images/illustrations/audio/"+audio.era.slice(0,4)+"-"+audio.id+"-1.svg"}} />
+</div>
+<h2>{{audio.name}}</h2>
+<div id="info">
+    <div><span>AKA</span>
+        <div>{{audio.aka}}</div>
+    </div>
+    <div><span>Era</span>
+        <div>{{audio.era}}</div>
+    </div>
+    <div><span>Format</span>
+        <div>{{audio.format}}</div>
+    </div>
+    <div><span>Developed by</span>
+        <div>{{audio.developedBy}}</div>
+    </div>
+    <div><span>(Max) Capacity</span>
+        <div>{{audio.capacity}}</div>
+    </div>
+    <div><span>Size</span>
+        <div>{{audio.size}}</div>
+    </div>
+</div>
+<ul id="facts">
+    <li>{{audio.fact1}}</li>
+    <li>{{audio.fact2}}</li>
+    <li>{{audio.fact3}}</li>
+</ul>
+<div class="image fit">
+    <img src={{"/images/illustrations/audio/"+audio.era.slice(0,4)+"-"+audio.id+"-2.svg"}} />
+</div>
+<div class="image fit">
+    <img src={{"/images/illustrations/audio/"+audio.era.slice(0,4)+"-"+audio.id+"-3.svg"}} />
+</div>

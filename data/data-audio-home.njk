@@ -1,0 +1,14 @@
+---
+layout: format.njk
+title: Illustrated Media Format Guides - Data - Audio
+permalink: "data/audio/"
+---
+
+<h1>Audio</h1>
+
+<ul class="group">
+{% for a in audio %}
+<li><a href="/audio/{{ a.id }}">{{ a.name }}</a></li>
+{% endfor %}
+</ul>
+
