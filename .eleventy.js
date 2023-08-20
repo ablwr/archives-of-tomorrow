@@ -1,6 +1,8 @@
 const pluginWebc = require("@11ty/eleventy-plugin-webc");
 
 module.exports = function (eleventyConfig) {
+  // top-level CNAME
+  eleventyConfig.addPassthroughCopy("src/CNAME");
   eleventyConfig.addPlugin(pluginWebc, {
     components: "_components/**/*.webc",
   });
