@@ -249,20 +249,29 @@ nav section {
     font-size: 1.5rem;
 }
 
-#info {
+#triviaInfo {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: left;
     align-items: initial;
 }
 
-#info div div {
+#triviaInfo div div {
     font-size: clamp(0.8rem, 0.6rem + 1vw, 1.0rem);
 }
 
-#info div span {
+#triviaInfo div span {
     border-bottom: 1px solid #90d8ff;
     font-size: clamp(0.6rem, 0.6rem + 1vw, 1.0rem);
+}
+
+.info div span {
+    border-bottom: 1px solid #90d8ff;
+    font-size: clamp(1rem, 1rem + 1vw, 1.2rem);
+}
+
+.info div div {
+    margin-left: 1rem;
 }
 
 

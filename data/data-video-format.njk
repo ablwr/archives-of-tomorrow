@@ -13,7 +13,7 @@ permalink: "video/{{ video.id }}/"
     <img src={{"/images/illustrations/video/"+video.era.slice(0,4)+"-"+video.id+"-1.svg"}} />
 </div>
 <h2>{{video.name}}</h2>
-<div id="info">
+<div class="info">
     <div><span>AKA</span>
         <div>{{video.aka}}</div>
     </div>
@@ -35,7 +35,7 @@ permalink: "video/{{ video.id }}/"
     <div><span>Size</span>
         <div>{{video.size}}</div>
     </div>
-</div>
+<div><span>Fun facts</span></div>
 <ul id="facts">
     <li>{{video.fact1}}</li>
     <li>{{video.fact2}}</li>
@@ -43,6 +43,7 @@ permalink: "video/{{ video.id }}/"
     {% if video.fact4 %}<li>{{video.fact4}}</li>{% endif %}
     {% if video.fact5 %}<li>{{video.fact5}}</li>{% endif %}
 </ul>
+</div>
 <div class="image fit">
     <img src={{"/images/illustrations/video/"+video.era.slice(0,4)+"-"+video.id+"-2.svg"}} />
 </div>

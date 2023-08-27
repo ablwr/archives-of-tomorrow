@@ -13,7 +13,7 @@ permalink: "film/{{ film.id }}/"
     <img src={{"/images/illustrations/film/"+film.era.slice(0,4)+"-"+film.id+"-1.svg"}} />
 </div>
 <h2>{{film.name}}</h2>
-<div id="info">
+<div class="info">
     <div><span>AKA</span>
         <div>{{film.aka}}</div>
     </div>
@@ -38,7 +38,7 @@ permalink: "film/{{ film.id }}/"
     <div><span>Frame size picture area</span>
         <div>{{film.frameSizePictureArea}}</div>
     </div>
-</div>
+<div><span>Fun facts</span></div>
 <ul id="facts">
     <li>{{film.fact1}}</li>
     <li>{{film.fact2}}</li>
@@ -46,6 +46,7 @@ permalink: "film/{{ film.id }}/"
     {% if film.fact4 %}<li>{{film.fact4}}</li>{% endif %}
     {% if film.fact5 %}<li>{{film.fact5}}</li>{% endif %}
 </ul>
+</div>
 <div class="image fit">
     <img src={{"/images/illustrations/film/"+film.era.slice(0,4)+"-"+film.id+"-2.svg"}} />
 </div>
